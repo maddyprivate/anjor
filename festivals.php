@@ -54,7 +54,7 @@ Proin malesuada urna nec nisi vulputate, ac fringilla est gravida. Fusce auctor 
                                 <img class="card-img-top" src="https://www..com/dg/festivals/2-Draksh-Mahotsav.webp"
                                     alt="">
                                 <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Prakat Din</h3>
+                                    <h3 class="card-title text-white mb-2">Gajanan maharaj Prakat Din</h3>
                                     <p class="text-white">
                                     This significant day marks the birth anniversary of Gajanan Maharaj.
                                                                             </p>
@@ -75,10 +75,9 @@ Proin malesuada urna nec nisi vulputate, ac fringilla est gravida. Fusce auctor 
                                 <img class="card-img-top" src="https://www..com/dg/festivals/3-Suryful-Mahotsav.webp"
                                     alt="Sunflower Festival">
                                 <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Sunflower Festival</h3>
+                                    <h3 class="card-title text-white mb-2">Swami prakat din</h3>
                                     <p class="text-white">
-                                                                                    Sunflower Festival includes a colorful display of sunflowers across the temple –
-                                            inside out.
+                                    This significant day commemorates the appearance of Swami Samarth on Earth, marking a profound moment in the spiritual landscape of the region. 
                                                                             </p>
                                 </div>
                             </a>
@@ -94,10 +93,9 @@ Proin malesuada urna nec nisi vulputate, ac fringilla est gravida. Fusce auctor 
                                 <img class="card-img-top" src="https://www..com/dg/festivals/4-Vallabhesh-Mangalam.webp"
                                     alt="Vallabhesh Mangalam">
                                 <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Vallabhesh Mangalam</h3>
+                                    <h3 class="card-title text-white mb-2">Viajaya Dashmi </h3>
                                     <p class="text-white">
-                                                                                    Vallabhesh Mangalam is the unique celebration for the wedding of Shri. Ganesh
-                                            and Devi Vallabha.
+                                    This date is traditionally celebrated as the birth anniversary or Prakat Din (Appearance Day) of Sai Baba.
                                                                             </p>
                                 </div>
                             </a>
@@ -116,11 +114,9 @@ Proin malesuada urna nec nisi vulputate, ac fringilla est gravida. Fusce auctor 
                                 <img class="card-img-top" src="https://www..com/dg/festivals/5-Amba-Mahotsav.webp"
                                     alt="Mango Festival">
                                 <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Mango Festival</h3>
+                                    <h3 class="card-title text-white mb-2">Gurupurnima</h3>
                                     <p class="text-white">
-                                                                                    Mango Festival is an annual extravaganza is celebrated on the occasion of
-                                            Akshaya
-                                            Tritiya.
+                                    The term “Guru Purnima” is derived from two Sanskrit words: “Guru,” meaning teacher or guide, and “Purnima,” meaning full moon.
                                                                             </p>
                                 </div>
                             </a>
@@ -157,7 +153,7 @@ Proin malesuada urna nec nisi vulputate, ac fringilla est gravida. Fusce auctor 
                             </div>
                         </div>
                     </div>
-
+</div>
                     
                     <!-- WALLPAPERS -->
     <h2 class="fw-bold mt-5 mb-4">WALLPAPERS</h2>
