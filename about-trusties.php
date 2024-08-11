@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-         <!--   <section class="fullscreen" data-bg-parallax="/dg/image3.jpg">
+            <section class="fullscreen" data-bg-parallax="./dg/image3.jpg">
         
         <div class="shape-divider" data-style="1" data-height="300"></div>
         <div class="container-wide">
@@ -11,7 +11,7 @@
         </div>
     </section>
 
-    <section id="page-content">
+   <!-- <section id="page-content">
         <div class="container">
             <h2 class="fw-bold text-uppercase">Founder Trustees - Pillars of the Trust</h2>
 
