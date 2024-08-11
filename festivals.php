@@ -19,17 +19,13 @@
                     <h2 class="fw-bold">FESTIVALS</h2>
 
                                             <p class="p-large">
-                            <span class="dropcap dropcap-dark me-3">E</span>very year, the Shreemant  
-                             Temple comes alive with a vibrant and spiritually uplifting celebration in the form of
-                            festivals that draw devotees and enthusiasts from all corners. Nestled in the heart of Pune,
-                            India, this iconic temple is renowned for its grandeur, rich history, and deep spiritual
-                            significance. The festivals held at this temple are not merely events, but rather a confluence
-                            of devotion, culture, and tradition that create an atmosphere of joy, unity, and reverence.
-                            These annual celebrations serve as a bridge between the past and the present, embodying the
-                            essence of devotion while offering a platform for devotees to come together, offer their
-                            prayers, and partake in the exuberant festivities. From elaborate processions to melodious
-                            bhajans, these festivals are a testament to the unwavering faith of the people and the temple's
-                            enduring legacy in spreading divine grace and blessings.
+                            <span class="dropcap dropcap-dark me-3">E</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique felis at malesuada pharetra. Aenean at sollicitudin purus. Phasellus sit amet nisi quis nulla suscipit sodales. Curabitur quis turpis vitae lorem egestas scelerisque in sit amet nisi. Duis accumsan sollicitudin ante, et tempor lectus luctus ac. Suspendisse vehicula, urna nec tincidunt dapibus, turpis lacus posuere nisi, eu sodales elit lectus non nisl. Nulla facilisi. Mauris pretium justo a sapien vehicula, vel faucibus lectus tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+Donec at magna id risus faucibus gravida. Vestibulum gravida urna sed orci consequat, eu ultrices libero suscipit. Sed auctor magna ut nisi bibendum, ac gravida enim fermentum. Aenean vehicula justo in odio interdum, eget scelerisque elit tincidunt. Nunc vel ligula sit amet nisi varius cursus. Donec ut diam vestibulum, interdum elit ac, consectetur risus. In hac habitasse platea dictumst. Fusce dictum nibh in ipsum posuere feugiat. Nullam condimentum, ligula et aliquet iaculis, velit odio consequat dolor, eget fringilla ex risus sed erat.
+
+Mauris ac volutpat libero. Phasellus id auctor odio. Aliquam erat volutpat. Ut bibendum ex quis sapien cursus suscipit. Nunc euismod lacus ac auctor fermentum. Praesent nec convallis orci. Nulla facilisi. Integer suscipit mauris sit amet varius ultricies. Vestibulum sollicitudin magna sit amet dolor sodales gravida. Suspendisse sed posuere urna. Aenean sagittis, urna a pharetra varius, libero erat aliquet augue, ut maximus nunc odio nec mi.
+
+Proin malesuada urna nec nisi vulputate, ac fringilla est gravida. Fusce auctor interdum risus id dapibus. Cras cursus tempor neque. Quisque sed est elit. Integer auctor libero vel sapien vehicula, non sodales metus varius. Nam dictum eros in urna dignissim, ac fermentum sem sollicitudin. Morbi in convallis nisi. Nam non justo felis. Suspendisse potenti. Nulla facilisi. Donec varius quam vel neque consequat tempor. Suspendisse id ex nec lorem facilisis pretium.
                         </p>
                     
                     <div class="row mt-6">
@@ -40,33 +36,32 @@
                                 <img class="card-img-top" src="https://www..com/dg/festivals/1-Ganesh-Janm.webp"
                                     alt="Ganesh Janm">
                                 <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Ganesh Janm</h3>
+                                    <h3 class="card-title text-white mb-2">Dattatray Jayanti</h3>
                                     <p class="text-white">
-                                                                                    Ganesh Janm is the magnificent celebration of Lord Ganesha's birth.
+                                    Celebrated with devotion and enthusiasm, this festival honors the birth of Dattatraya, who is believed to be an incarnation of the divine trinity of Brahma, Vishnu, and Shiva.
                                                                             </p>
                                 </div>
                             </a>
                             <div class="text-center">
-                                <a href="https://www..com/festivals/ganesh-janm"
+                                <a href="#"
                                     class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <a class="card festival"
-                                href="https://www..com/festivals/grapes-festival"
+                                href="#"
                                 style="background: #077b7d;">
                                 <img class="card-img-top" src="https://www..com/dg/festivals/2-Draksh-Mahotsav.webp"
-                                    alt="Grapes Festival">
+                                    alt="">
                                 <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Grapes Festival</h3>
+                                    <h3 class="card-title text-white mb-2">Prakat Din</h3>
                                     <p class="text-white">
-                                                                                    Grapes Festival is a cultural event organized on Sankashti Chaturthi, sponsored
-                                            by Sahyadri Farms.
+                                    This significant day marks the birth anniversary of Gajanan Maharaj.
                                                                             </p>
                                 </div>
                             </a>
                             <div class="text-center">
-                                <a href="https://www..com/festivals/grapes-festival"
+                                <a href="#"
                                     class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
                             </div>
                         </div>
@@ -134,233 +129,7 @@
                                     class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
                             </div>
                         </div>
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/mogra-mahotsav"
-                                style="background: #105716;">
-                                <img class="card-img-top" src="https://www..com/dg/festivals/6-Mogara-Mahotsav.webp"
-                                    alt="Mogra Festival">
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Mogra Festival</h3>
-                                    <p class="text-white">
-                                                                                    Mogra Festival has a mesmerizing blend of spirituality and sensory delight.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/mogra-mahotsav"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row mt-3">
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/shahale-mahotsav"
-                                style="background: #711080;">
-                                <img class="card-img-top" src="https://www..com/dg/festivals/7-Shahale-Mahotsav.webp"
-                                    alt="Coconut Festival">
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Coconut Festival</h3>
-                                    <p class="text-white">
-                                                                                    Coconut Festival is celebrated on Pustipati Vinayak Jayanati that falling on the
-                                            Vaishak Purnima.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/shahale-mahotsav"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/shardesh-mangalam"
-                                style="background: #48640c;">
-                                <img class="card-img-top" src="https://www..com/dg/festivals/8-Shardesh-Mangalam.webp"
-                                    alt="Shardesh Mangalam">
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Shardesh Mangalam</h3>
-                                    <p class="text-white">
-                                                                                    Shardesh Mangalam is celebrated on Akshaya Tritiya to mark the marriage of Lord
-                                            Ganesha and Devi Sharda.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/shardesh-mangalam"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row mt-3">
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/sheshatmaj-ganesh-jayanti"
-                                style="background: #954a01;">
-                                <img class="card-img-top"
-                                    src="https://www..com/dg/festivals/9-Sheshatmaj-Ganesh-Jayanti.webp"
-                                    alt="Sheshatmaj Ganesh Jayanti">
-                                
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Sheshatmaj Ganesh Jayanti</h3>
-                                    <p class="text-white">
-                                                                                    Sheshatmaj Jayanti is celebrated on Jeshth Shuddha Vinayaki Chaturthi.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/sheshatmaj-ganesh-jayanti"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/atirudra-mahayag"
-                                style="background: #430971;">
-                                <img class="card-img-top" src="https://www..com/dg/festivals/10-Atirudra-Mahayag.webp"
-                                    alt="Atirudra Mahayag">
-                                
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Atirudra Mahayag</h3>
-                                    <p class="text-white">
-                                                                                    The Atirudra Mahayag is a grand Vedic ritual organized during the holy month of
-                                            Chaturmas.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/atirudra-mahayag"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row mt-3">
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/chaturmas-pravachan"
-                                style="background: #b50d0c;">
-                                <img class="card-img-top" src="https://www..com/dg/festivals/11-Chaturmas-Pravachan.webp"
-                                    alt="Chaturmas Pravachan">
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Chaturmas Pravachan</h3>
-                                    <p class="text-white">
-                                                                                    Chaturmas Pravachan involves spiritual leaders enlightening devotees about
-                                            ancient scriptures.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/chaturmas-pravachan"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/chaturmas-kirtan"
-                                style="background: #105716;">
-                                <img class="card-img-top" src="https://www..com/dg/festivals/12-Chaturmas-Kirtan.webp"
-                                    alt="Chaturmas Kirtan">
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Chaturmas Kirtan</h3>
-                                    <p class="text-white">
-                                                                                    Chaturmas Kirtan is a melodious program organized during the auspicious
-                                            Chaturmas period.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/chaturmas-kirtan"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row mt-3">
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/ganesh-utsav-2022"
-                                style="background: #077b7d;">
-                                <img class="card-img-top" src="https://www..com/dg/festivals/13-Ganesh-Utsav.webp"
-                                    alt="Ganesh Utsav">
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Ganesh Utsav</h3>
-                                    <p class="text-white">
-                                                                                    Ganesh Utsav is a monumental celebration that honors the divine essence of Lord
-                                            Ganesha.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/ganesh-utsav-2022"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/tripurari-purnima"
-                                style="background: #102c57;">
-                                <img class="card-img-top" src="https://www..com/dg/festivals/14-Tripurari-Pornima.webp"
-                                    alt="Tripurari Purnima">
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Tripurari Purnima</h3>
-                                    <p class="text-white">
-                                                                                    Tripurari Purnima is observed on the full moon day of the Kartik month to honor
-                                            Lord Shiva.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/tripurari-purnima"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row mt-3">
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/dahi-handi"
-                                style="background: #954a01;">
-                                <img class="card-img-top" src="https://www..com/dg/festivals/Dahi-Handi/Dahi-Handi-3.webp"
-                                    alt="Dahi Handi">
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Dahi Handi</h3>
-                                    <p class="text-white">
-                                                                                    The joyous and energetic Dahi Handi festival is a grand celebration of the birth
-                                            of Lord Krishna.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/dahi-handi"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <a class="card festival"
-                                href="https://www..com/festivals/sangeet-mahotsav"
-                                style="background: #954a01;">
-                                <img class="card-img-top"
-                                    src="https://www..com/dg/festivals/Sangeet-Mahotsav/Sangeet-Mahotsav-7.webp"
-                                    alt="Music Festival">
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-white mb-2">Music Festival</h3>
-                                    <p class="text-white">
-                                                                                    Music Festival is organized from Gudi Padwa to Ram Navami, marking the
-                                            foundation day of the Temple.
-                                                                            </p>
-                                </div>
-                            </a>
-                            <div class="text-center">
-                                <a href="https://www..com/festivals/sangeet-mahotsav"
-                                    class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
-                            </div>
-                        </div>
-                    </div>
+                        
 
                     <!-- DONATION -->
 
