@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-            <section class="fullscreen" data-bg-parallax="/dg/image3.jpg">
+         <!--   <section class="fullscreen" data-bg-parallax="/dg/image3.jpg">
         
         <div class="shape-divider" data-style="1" data-height="300"></div>
         <div class="container-wide">
@@ -128,7 +128,7 @@
 
             
             <!-- WALLPAPERS -->
-    <h2 class="fw-bold mt-5 mb-4">WALLPAPERS</h2>
+<!--<h2 class="fw-bold mt-5 mb-4">WALLPAPERS</h2>
     <div class="carousel" data-items="3" data-lightbox="gallery">
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                 <div class="portfolio-item-wrap">
@@ -218,8 +218,8 @@
                     </div>
                 </div>
                 <div class="col-lg-4"></div>
-            </div>-->
+            </div>
         </div>
-    </section>
+    </section>-->
 
 <?php include 'footer.php'; ?>

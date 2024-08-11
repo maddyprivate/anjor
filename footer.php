@@ -17,13 +17,13 @@ $baseUrl = '/path-to-your-server-directory/';
                 <div class="row">
                     <div class="col-lg-3">
                     <a href="index.php" class="navbar-brand">
-                    <img src="/dg/Logo.png" alt="logo" hight="120" width="120"></a>
+                    <img src="./dg/Logo.png" alt="logo" hight="120" width="120"></a>
                         <div class="widget">
                             <div class="widget-title">ABOUT US</div>
                             <p class="mb-4 text-light lh-lg">
                                 The Shri Datta Maharaj Trimurti Shakti Pith is located in Pune and is under the management of the "Anjor Foundation," registered under No. E – 5525 in Pune.
                             </p>
-                            <a href="./about.php" class="btn btn-outline btn-light" target="_blank">ABOUT US</a>
+                            <a href="./history.php" class="btn btn-outline btn-light" target="_blank">ABOUT US</a>
                         </div>
                     </div>
                     <div class="col-lg-2">
@@ -72,7 +72,7 @@ $baseUrl = '/path-to-your-server-directory/';
                             </div>
                         </div>
                     </div>
-                    
+ 
         <div class="col-lg-3">
                 <div class="widget">
                     <div class="widget-title">CONNECT WITH US</div>

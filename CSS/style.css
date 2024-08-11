@@ -7121,7 +7121,8 @@ body.breakpoint-xs .page-error-404 {
 }
 
 .image-block .col-lg-6 {
-    padding: 60px
+    padding: 60px;
+    
 }
 
 .image-block-content {
@@ -18646,7 +18647,7 @@ img {
     border-radius: 10px;
     position: relative;
     background: #fff;
-    border: 1px solid #c8262f
+    border: 1px solid #c8262f;
 }
 
 .icon-box-2 .box-text {

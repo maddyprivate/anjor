@@ -29,7 +29,7 @@
                     <h3 class="text-uppercase" style="color:#551e46">Get In Touch</h3>
 
                     <div class="icon-box effect medium border mb-3">
-                        <div class="icon"> <a href="https://maps.app.goo.gl/4J2N1J1wxHi7tkmP8" target="_blank"><i
+                        <div class="icon"> <a href="https://maps.app.goo.gl/bD2vF6ic5w1wugky9" target="_blank"><i
                                     class="fa fa-map-marker"></i></a> </div>
                         <h3 class="fw-bold">ADDRESS</h3>
                         <p>
@@ -136,24 +136,18 @@
                     </div>
 
                     <div class="text-center">
-                        <a href="https://seva.dagdushethganpati.com/eseva" class="btn btn-warning">
+                        <a href="./eseva" class="btn btn-warning">
                             BOOK NOW                        </a>
                     </div>
                 </div>
             </div>
 
-            <!--<div class="row mt-6">
-                <div class="col-lg-6">
-                    <a class="icon-box-2" href="https://seva.dagdushethganpati.com/fasttrack">
-                        <div class="box-text text-uppercase">Tatkal Darshan Pass</div>
-                        <div class="icon-holder"><i class="icon-chevron-right"></i></div>
-                    </a>
-                </div>-->
-                <div class="col-lg-6">
+
+                <div class="col-lg-6" allign-item="center">
                     <a class="icon-box-2" href="/donation">
                         <div class="box-text">
                             DONATION DETAILS                        </div>
-                        <div class="icon-holder"><i class="icon-chevron-right"></i></div>
+                        <div class="icon-holder"><i class="fas fa-user"></i></div>
                     </a>
                 </div>
             </div>
