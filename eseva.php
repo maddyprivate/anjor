@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 
-        <!--    <section class="fullscreen" data-bg-parallax="/dg/image3.jpg">
+            <section class="fullscreen" data-bg-parallax="./dg/image3.jpg">
         
         <div class="shape-divider" data-style="1" data-height="300"></div>
         <div class="container-wide">
@@ -12,7 +12,7 @@
         </div>
     </section>
 
-    <section id="page-content" class="sidebar-right">
+   <!-- <section id="page-content" class="sidebar-right">
         <div class="container">
             <div class="row">-->
                 <!-- content -->
