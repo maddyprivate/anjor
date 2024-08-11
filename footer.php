@@ -16,8 +16,6 @@ $baseUrl = '/path-to-your-server-directory/';
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3">
-                    <a href="index.php" class="navbar-brand">
-                    <img src="./dg/Logo.png" alt="logo" hight="120" width="120"></a>
                         <div class="widget">
                             <div class="widget-title">ABOUT US</div>
                             <p class="mb-4 text-light lh-lg">
@@ -26,7 +24,8 @@ $baseUrl = '/path-to-your-server-directory/';
                             <a href="./history.php" class="btn btn-outline btn-light" target="_blank">ABOUT US</a>
                         </div>
                     </div>
-                    <div class="col-lg-2">
+
+                    <div class="col-lg-3">
                         <div class="widget">
                             <div class="widget-title">LINKS</div>
                             <ul class="list">
@@ -40,6 +39,7 @@ $baseUrl = '/path-to-your-server-directory/';
                             </ul>
                         </div>
                     </div>
+
                     <div class="col-lg-3">
                         <div class="widget">
                             <div class="widget-title">GET IN TOUCH</div>
@@ -54,7 +54,7 @@ $baseUrl = '/path-to-your-server-directory/';
                                     Kashid Park, Pimple Gurav,<br>
                                     Maharashtra, India – 411061
                                 </p>
-                            </div>
+                            
                             
                             <div class="icon-box effect small clean mb-3">
                                 <div class="icon"><i class="fas fa-phone"></i></div>
@@ -72,7 +72,7 @@ $baseUrl = '/path-to-your-server-directory/';
                             </div>
                         </div>
                     </div>
- 
+
         <div class="col-lg-3">
                 <div class="widget">
                     <div class="widget-title">CONNECT WITH US</div>
@@ -94,6 +94,9 @@ $baseUrl = '/path-to-your-server-directory/';
                                 <a href="https://www.pinterest.com//"><i class="fab fa-pinterest"></i></a>
                              </li>
                           </ul>
+                          <a href="index.php" class="navbar-brand">
+                    <img src="./dg/Logo.png" alt="logo" hight="200" width="200"></a>
+                   
                         </div>
                     </div>
                 </div>

@@ -143,7 +143,7 @@
             </div>
 
 
-                <div class="col-lg-6" allign-item="center">
+                <div class="col-lg-6" >
                     <a class="icon-box-2" href="/donation">
                         <div class="box-text">
                             DONATION DETAILS                        </div>
