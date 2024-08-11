@@ -38,16 +38,7 @@
             <div class="col-lg-4">
                 <h3 class="text-center">DAILY SCHEDULE</h3>
                 <div class="widget p-cb widget-schedule lang-en">
-                    <strong> Daily Temple Timing</strong>
-                    <ul type="square">
-                        <li>5:00 AM to 10:30 PM (Monday, Wednesday, Thursday, Friday, Saturday, and Sunday)</li>
-                        <li><strong>Tuesday Timing</strong>– 5:00 AM to 11:00 PM</li>
-                        <li><strong>Suprabhatam Aarti</strong>– 07:30 AM to 07:45 AM</li>
-                        <li><strong>Naivedyam</strong>– 01:30 PM to 01:45 PM</li>
-                        <li><strong>Madhyana Aarti</strong>– 03:00 PM to 03:15 PM</li>
-                        <li><strong>Mahamangal Aarti</strong>– 08:00 PM to 09:00 PM</li>
-                        <li><strong>Shejarti</strong>– 10:30 PM to 10:45 PM</li>
-                    </ul>
+                   
                 </div>
                 <div class="text-center">
                     <a href="/path/to/temple-schedule#daily-schedule" class="btn btn-warning mt-4 mb-5">CLICK HERE</a>
@@ -56,14 +47,6 @@
             <div class="col-lg-4">
                 <h3 class="text-center">UPCOMING SCHEDULE</h3>
                 <div class="widget p-cb widget-schedule lang-en">
-                    <ul type="square">
-                        <li><strong>3rd to 23rd July 2024</strong> – Atirudra Mahayadnya</li>
-                        <li><strong>9th July 2024, Tuesday</strong> – Vinayaki Chaturthi</li>
-                        <li><strong>17th July 2024, Wednesday</strong> – Ashadhi Ekadashi</li>
-                        <li><strong>21st July 2024, Sunday</strong> – Guru purnima</li>
-                        <li><strong>21st July 2024, Sunday</strong> – Laksha Janmotsav</li>
-                        <li><strong>24th July 2024, Wednesday</strong> – Sankashti Chaturthi</li>
-                    </ul>
                 </div>
                 <div class="text-center">
                     <a href="/path/to/temple-schedule#upcoming-schedule" class="btn btn-danger mt-4 mb-5">CLICK HERE</a>
@@ -122,7 +105,7 @@
                     <div class="box-text">FESTIVAL<br>TIMINGS</div>
                 </a>
                 <div class="text-center">
-                    <a href="./festival.php" class="btn btn-danger mt-4 mb-5">
+                    <a href="./festivals.php" class="btn btn-danger mt-4 mb-5">
                         CLICK HERE
                     </a>
                 </div>

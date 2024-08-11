@@ -1368,7 +1368,7 @@ section.dark,.dark section {
 }
 
 .dark #header .header-inner,.dark #header #header-wrap,#header.dark .header-inner,#header.dark #header-wrap {
-    background-color: #FBCEB1
+    background-color: sienna;
 }
 
 .dark #header .header-inner #logo a>img,.dark #header .header-inner #logo a [class*=logo-],.dark #header #header-wrap #logo a>img,.dark #header #header-wrap #logo a [class*=logo-],#header.dark .header-inner #logo a>img,#header.dark .header-inner #logo a [class*=logo-],#header.dark #header-wrap #logo a>img,#header.dark #header-wrap #logo a [class*=logo-] {
@@ -1530,7 +1530,7 @@ section.dark,.dark section {
     padding: 10px 12px;
     text-transform: uppercase;
     font-size: 12px;
-    font-weight: 600;
+    font-weight: 800;
     letter-spacing: .6px;
     color: #000;
     border-radius: 0;
@@ -6194,7 +6194,8 @@ a:not(.btn):not(.badge):not(.btn):not([href]):not([tabindex]) {
 
 #footer p {
     font-family: inherit;
-    font-size: 15px
+    font-size: 15px;
+    font-weight: 500;
 }
 
 #footer a:not(.btn) {
@@ -6236,7 +6237,7 @@ a:not(.btn):not(.badge):not(.btn):not([href]):not([tabindex]) {
 }
 
 .dark #footer,#footer.inverted,#footer.dark {
-    background-color: #FBCEB1
+    background-color: sienna
 }
 
 .dark #footer p,#footer.inverted p,#footer.dark p {
@@ -6249,7 +6250,8 @@ a:not(.btn):not(.badge):not(.btn):not([href]):not([tabindex]) {
 
 .dark #footer a:not(.btn):not(:hover),#footer.inverted a:not(.btn):not(:hover),#footer.dark a:not(.btn):not(:hover) {
     font-size: 15px;
-    color: #f3f3f3
+    color: #f3f3f3;
+    font-weight: 500;
 }
 
 .dark #footer h1,.dark #footer h2,.dark #footer h3,.dark #footer h4,.dark #footer h5,.dark #footer h6,#footer.inverted h1,#footer.inverted h2,#footer.inverted h3,#footer.inverted h4,#footer.inverted h5,#footer.inverted h6,#footer.dark h1,#footer.dark h2,#footer.dark h3,#footer.dark h4,#footer.dark h5,#footer.dark h6 {
@@ -6257,7 +6259,7 @@ a:not(.btn):not(.badge):not(.btn):not([href]):not([tabindex]) {
 }
 
 .dark #footer .widget .widget-title,.dark #footer .widget h4,#footer.inverted .widget .widget-title,#footer.inverted .widget h4,#footer.dark .widget .widget-title,#footer.dark .widget h4 {
-    color: #000000
+    color: #fff
 }
 
 .dark #footer .social-icons.large li i,#footer.inverted .social-icons.large li i,#footer.dark .social-icons.large li i {
@@ -13507,7 +13509,7 @@ div.icon-box:before {
 
 .icon-box.clean .icon i {
     background-color: none;
-    color: #333;
+    color: #fff;
     font-size: 50px
 }
 

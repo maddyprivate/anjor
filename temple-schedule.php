@@ -185,10 +185,6 @@
                         </div>
                     </div>
                 </div>
-
-                <h4 class="disallowed mt-8">Following items are strictly disallowed in and around the temple premises
-                    and can attract penal action in case of violations.</h4>
-                <img class="w-100 mt-1 mb-2" src="./dg/temple-schedule/disallowed-items.webp" alt="">
             </div>
 
             <div class="sidebar col-lg-4 pb-3">
