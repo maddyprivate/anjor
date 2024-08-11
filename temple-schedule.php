@@ -155,10 +155,10 @@
                     <div class="row mt-6">
                         <div class="col-lg-6">
                             <div class="card bg-pink">
-                                <img class="card-img-top" src="https://www.dagdushethganpati.com/dg/misc/donations.webp" alt="E-Donation">
+                                <img class="card-img-top" src="./dg/misc/donations.webp" alt="E-Donation">
                                 <div class="card-body text-center">
                                     <h3 class="card-title text-white mb-2">E-DONATION</h3>
-                                    <a href="https://seva.dagdushethganpati.com/donation" class="btn btn-outline btn-light">
+                                    <a href="./donation" class="btn btn-outline btn-light">
                                         CLICK HERE                                    </a>
                                 </div>
                             </div>
@@ -166,10 +166,10 @@
                         <div class="col-lg-6">
                             <div class="card bg-teal">
                                 <span class="badge bg-danger">NEW</span>
-                                <img class="card-img-top" src="https://www.dagdushethganpati.com/dg/misc/yag-abhishek.webp" alt="E-Seva">
+                                <img class="card-img-top" src="./dg/misc/yag-abhishek.webp" alt="E-Seva">
                                 <div class="card-body text-center">
                                     <h3 class="card-title text-white mb-2">E-SEVA</h3>
-                                    <a href="https://seva.dagdushethganpati.com/eseva" class="btn btn-light">
+                                    <a href="./eseva" class="btn btn-light">
                                         BOOK NOW                                    </a>
                                 </div>
                             </div>
@@ -183,13 +183,13 @@
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
-                        <a href="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-1.jpg" target="_blank">
-                            <img src="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-1.jpg"
-                                alt="Dagdusheth Ganpati Wallpaper">
+                        <a href="./dg/wallpapers/Wallpaper-1.jpg" target="_blank">
+                            <img src="./dg/wallpapers/Wallpaper-1.jpg"
+                                alt="Trimurti Shakti Pith">
                         </a>
                     </div>
                     <div class="portfolio-description">
-                        <a href="https://www.dagdushethganpati.com/wallpapers/1" target="_blank"><i
+                        <a href="./wallpapers/1" target="_blank"><i
                                 class="fa fa-download"></i></a>
                     </div>
                 </div>
@@ -197,13 +197,13 @@
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
-                        <a href="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-2.jpg" target="_blank">
-                            <img src="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-2.jpg"
-                                alt="Dagdusheth Ganpati Wallpaper">
+                        <a href="./dg/wallpapers/Wallpaper-2.jpg" target="_blank">
+                            <img src="./dg/wallpapers/Wallpaper-2.jpg"
+                                alt="Trimurti Shakti Pith">
                         </a>
                     </div>
                     <div class="portfolio-description">
-                        <a href="https://www.dagdushethganpati.com/wallpapers/2" target="_blank"><i
+                        <a href="./wallpapers/2" target="_blank"><i
                                 class="fa fa-download"></i></a>
                     </div>
                 </div>
@@ -211,13 +211,13 @@
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
-                        <a href="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-3.jpg" target="_blank">
-                            <img src="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-3.jpg"
-                                alt="Dagdusheth Ganpati Wallpaper">
+                        <a href="./dg/wallpapers/Wallpaper-3.jpg" target="_blank">
+                            <img src="./dg/wallpapers/Wallpaper-3.jpg"
+                                alt="Trimurti Shakti Pith">
                         </a>
                     </div>
                     <div class="portfolio-description">
-                        <a href="https://www.dagdushethganpati.com/wallpapers/3" target="_blank"><i
+                        <a href="./wallpapers/3" target="_blank"><i
                                 class="fa fa-download"></i></a>
                     </div>
                 </div>
@@ -225,13 +225,13 @@
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
-                        <a href="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-4.jpg" target="_blank">
-                            <img src="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-4.jpg"
-                                alt="Dagdusheth Ganpati Wallpaper">
+                        <a href="./dg/wallpapers/Wallpaper-4.jpg" target="_blank">
+                            <img src="./dg/wallpapers/Wallpaper-4.jpg"
+                                alt="Trimurti Shakti Pith">
                         </a>
                     </div>
                     <div class="portfolio-description">
-                        <a href="https://www.dagdushethganpati.com/wallpapers/4" target="_blank"><i
+                        <a href="./wallpapers/4" target="_blank"><i
                                 class="fa fa-download"></i></a>
                     </div>
                 </div>
@@ -239,13 +239,13 @@
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
-                        <a href="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-5.jpg" target="_blank">
-                            <img src="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-5.jpg"
-                                alt="Dagdusheth Ganpati Wallpaper">
+                        <a href="./dg/wallpapers/Wallpaper-5.jpg" target="_blank">
+                            <img src="./dg/wallpapers/Wallpaper-5.jpg"
+                                alt="Trimurti Shakti Pith">
                         </a>
                     </div>
                     <div class="portfolio-description">
-                        <a href="https://www.dagdushethganpati.com/wallpapers/5" target="_blank"><i
+                        <a href="./wallpapers/5" target="_blank"><i
                                 class="fa fa-download"></i></a>
                     </div>
                 </div>
@@ -254,7 +254,7 @@
 
                     <h4 class="disallowed mt-8">Following items are strictly disallowed in and around the temple premises
                         and can attract penal action in case of violations.</h4>
-                    <img class="w-100 mt-1 mb-2" src="https://www.dagdushethganpati.com/dg/temple-schedule/disallowed-items.webp"
+                    <img class="w-100 mt-1 mb-2" src="./dg/temple-schedule/disallowed-items.webp"
                         alt="">
                 </div>
 
@@ -263,23 +263,23 @@
     <div class="widget widget-gallery p-cb">
         <h4 class="widget-title">Mini Gallery</h4>
         <div data-lightbox="gallery">
-                            <a href="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-1.webp" data-lightbox="gallery-image">
-                    <img alt="image" src="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-1.webp">
+                            <a href="./dg/sidebar/Mini-Gallery-Image-1.webp" data-lightbox="gallery-image">
+                    <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-1.webp">
                 </a>
-                            <a href="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-2.webp" data-lightbox="gallery-image">
-                    <img alt="image" src="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-2.webp">
+                            <a href="./dg/sidebar/Mini-Gallery-Image-2.webp" data-lightbox="gallery-image">
+                    <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-2.webp">
                 </a>
-                            <a href="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-3.webp" data-lightbox="gallery-image">
-                    <img alt="image" src="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-3.webp">
+                            <a href="./dg/sidebar/Mini-Gallery-Image-3.webp" data-lightbox="gallery-image">
+                    <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-3.webp">
                 </a>
-                            <a href="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-4.webp" data-lightbox="gallery-image">
-                    <img alt="image" src="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-4.webp">
+                            <a href="./dg/sidebar/Mini-Gallery-Image-4.webp" data-lightbox="gallery-image">
+                    <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-4.webp">
                 </a>
-                            <a href="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-5.webp" data-lightbox="gallery-image">
-                    <img alt="image" src="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-5.webp">
+                            <a href="./dg/sidebar/Mini-Gallery-Image-5.webp" data-lightbox="gallery-image">
+                    <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-5.webp">
                 </a>
-                            <a href="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-6.webp" data-lightbox="gallery-image">
-                    <img alt="image" src="https://www.dagdushethganpati.com/dg/sidebar/Mini-Gallery-Image-6.webp">
+                            <a href="./dg/sidebar/Mini-Gallery-Image-6.webp" data-lightbox="gallery-image">
+                    <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-6.webp">
                 </a>
                     </div>
     </div>
@@ -287,10 +287,10 @@
     
             <div class="widget clearfix p-cb pb-3">
             <h4 class="widget-title">Video <img class="float-right"
-                    src="https://www.dagdushethganpati.com/dg/sidebar/Live-Stream.webp" alt="Live Stream">
+                    src="./dg/sidebar/Live-Stream.webp" alt="Live Stream">
             </h4>
-            <a href="https://www.dagdushethganpati.com/live-darshan">
-                <img class="w-100" src="https://www.dagdushethganpati.com/dg/sidebar/Live-Darshan-Thumbnail.webp" alt="Live Darshan">
+            <a href="./live-darshan">
+                <img class="w-100" src="./dg/sidebar/Live-Darshan-Thumbnail.webp" alt="Live Darshan">
             </a>
         </div>
     
@@ -302,19 +302,19 @@
         <div class="social-icons social-icons-medium social-icons-rounded social-icons-colored">
             <ul>
                 <li class="social-facebook">
-                    <a href="https://www.facebook.com/dagadushethganpati/"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                 </li>
                 <li class="social-youtube">
-                    <a href="https://www.youtube.com/c/dagdushethganpati"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
                 </li>
                 <li class="social-twitter">
-                    <a href="https://twitter.com/DagdushethG"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
                 </li>
                 <li class="social-instagram">
-                    <a href="https://www.instagram.com/shrimantdagdushethganpati"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
                 </li>
                 <li class="social-pinterest">
-                    <a href="https://www.pinterest.com/DagdushethG/"><i class="fab fa-pinterest"></i></a>
+                    <a href="#"><i class="fab fa-pinterest"></i></a>
                 </li>
             </ul>
         </div>
@@ -327,52 +327,52 @@
         <h4 class="widget-title">E-SEVA</h4>
         <div class="product">
             <div class="product-image">
-                <a href="https://seva.dagdushethganpati.com/eseva">
-                    <img class="rounded" src="https://www.dagdushethganpati.com/dg/sidebar/Eseva-Image-1.webp" alt="Sankashti Chaturthi Special Mahaabhishek">
+                <a href="./eseva">
+                    <img class="rounded" src="./dg/sidebar/Eseva-Image-1.webp" alt="Sankashti Chaturthi Special Mahaabhishek">
                 </a>
             </div>
             <div class="product-description">
                 <div class="product-title">
-                    <h3><a href="https://seva.dagdushethganpati.com/eseva">Sankashti Chaturthi Special Mahaabhishek</a></h3>
+                    <h3><a href="./eseva">Sankashti Chaturthi Special Mahaabhishek</a></h3>
                 </div>
                 <div class="product-price"><ins>₹ 2100/-</ins>
                 </div>
                 <a class="btn btn-xs btn-primary mb-0"
-                    href="https://seva.dagdushethganpati.com/eseva">BOOK NOW</a>
+                    href="./eseva">BOOK NOW</a>
             </div>
         </div>
 
         <div class="product">
             <div class="product-image">
-                <a href="https://seva.dagdushethganpati.com/eseva">
-                    <img class="rounded" src="https://www.dagdushethganpati.com/dg/sidebar/Eseva-Image-2.webp" alt="Poshakh: Sankashti and Vinayaki Chaturthi">
+                <a href="./eseva">
+                    <img class="rounded" src="./dg/sidebar/Eseva-Image-2.webp" alt="Poshakh: Sankashti and Vinayaki Chaturthi">
                 </a>
             </div>
             <div class="product-description">
                 <div class="product-title">
-                    <h3><a href="https://seva.dagdushethganpati.com/eseva">Poshakh: Sankashti and Vinayaki Chaturthi</a></h3>
+                    <h3><a href="./eseva">Poshakh: Sankashti and Vinayaki Chaturthi</a></h3>
                 </div>
                 <div class="product-price"><ins>₹ 6000/-</ins>
                 </div>
                 <a class="btn btn-xs btn-primary mb-0"
-                    href="https://seva.dagdushethganpati.com/eseva">BOOK NOW</a>
+                    href="./eseva">BOOK NOW</a>
             </div>
         </div>
 
         <div class="product">
             <div class="product-image">
-                <a href="https://seva.dagdushethganpati.com/eseva">
-                    <img class="rounded" src="https://www.dagdushethganpati.com/dg/sidebar/Eseva-Image-3.webp" alt="Daily Maha-Abhishek (Nitya Abhishek)">
+                <a href="./eseva">
+                    <img class="rounded" src="./dg/sidebar/Eseva-Image-3.webp" alt="Daily Maha-Abhishek (Nitya Abhishek)">
                 </a>
             </div>
             <div class="product-description">
                 <div class="product-title">
-                    <h3><a href="https://seva.dagdushethganpati.com/eseva">Daily Maha-Abhishek (Nitya Abhishek)</a></h3>
+                    <h3><a href="./eseva">Daily Maha-Abhishek (Nitya Abhishek)</a></h3>
                 </div>
                 <div class="product-price"><ins>₹ 251/-</ins>
                 </div>
                 <a class="btn btn-xs btn-primary mb-0"
-                    href="https://seva.dagdushethganpati.com/eseva">BOOK NOW</a>
+                    href="./eseva">BOOK NOW</a>
             </div>
         </div>
     </div>

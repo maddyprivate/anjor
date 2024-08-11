@@ -16,7 +16,7 @@
             <div class="row">
                 <!-- content -->
                 <div class="content col-lg-8">
-                    <h2 class="fw-bold text-uppercase mb-3">The live Darshan of Dagdusheth Ganpati from the Temple</h2>
+                    <h2 class="fw-bold text-uppercase mb-3">The live Darshan of Trimurti Shakti Pith from the Temple</h2>
 
                                             <iframe loading="lazy"
                             src=""
@@ -25,7 +25,7 @@
                     
                     
 
-                    <h2 class="fw-bold text-uppercase mt-6 mb-3">Social initiative by Dagdusheth Ganpati Trust</h2>
+                    <h2 class="fw-bold text-uppercase mt-6 mb-3">Social initiative by Trimurti Shakti Pith Trust</h2>
 
                     <iframe class="mb-5" width="560" height="400" src=""
                         title="YouTube video player" frameborder="0"

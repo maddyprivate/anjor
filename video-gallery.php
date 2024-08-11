@@ -399,13 +399,13 @@
                                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-1.jpg" target="_blank">
-                                    <img src="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-1.jpg"
-                                        alt="Dagdusheth Ganpati Wallpaper">
+                                <a href="./dg/wallpapers/Wallpaper-1.jpg" target="_blank">
+                                    <img src="./dg/wallpapers/Wallpaper-1.jpg"
+                                        alt="Trimurti Shakti Pith">
                                 </a>
                             </div>
                             <div class="portfolio-description">
-                                <a href="https://www.dagdushethganpati.com/wallpapers/1"
+                                <a href="./wallpapers/1"
                                     target="_blank"><i class="fa fa-download"></i></a>
                             </div>
                         </div>
@@ -413,13 +413,13 @@
                                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-2.jpg" target="_blank">
-                                    <img src="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-2.jpg"
-                                        alt="Dagdusheth Ganpati Wallpaper">
+                                <a href="./dg/wallpapers/Wallpaper-2.jpg" target="_blank">
+                                    <img src="./dg/wallpapers/Wallpaper-2.jpg"
+                                        alt="Trimurti Shakti Pith">
                                 </a>
                             </div>
                             <div class="portfolio-description">
-                                <a href="https://www.dagdushethganpati.com/wallpapers/2"
+                                <a href="./wallpapers/2"
                                     target="_blank"><i class="fa fa-download"></i></a>
                             </div>
                         </div>
@@ -427,13 +427,13 @@
                                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-3.jpg" target="_blank">
-                                    <img src="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-3.jpg"
-                                        alt="Dagdusheth Ganpati Wallpaper">
+                                <a href="./dg/wallpapers/Wallpaper-3.jpg" target="_blank">
+                                    <img src="./dg/wallpapers/Wallpaper-3.jpg"
+                                        alt="Trimurti Shakti Pith">
                                 </a>
                             </div>
                             <div class="portfolio-description">
-                                <a href="https://www.dagdushethganpati.com/wallpapers/3"
+                                <a href="./wallpapers/3"
                                     target="_blank"><i class="fa fa-download"></i></a>
                             </div>
                         </div>
@@ -441,13 +441,13 @@
                                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-4.jpg" target="_blank">
-                                    <img src="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-4.jpg"
-                                        alt="Dagdusheth Ganpati Wallpaper">
+                                <a href="./dg/wallpapers/Wallpaper-4.jpg" target="_blank">
+                                    <img src="./dg/wallpapers/Wallpaper-4.jpg"
+                                        alt="Trimurti Shakti Pith">
                                 </a>
                             </div>
                             <div class="portfolio-description">
-                                <a href="https://www.dagdushethganpati.com/wallpapers/4"
+                                <a href="./wallpapers/4"
                                     target="_blank"><i class="fa fa-download"></i></a>
                             </div>
                         </div>
@@ -455,13 +455,13 @@
                                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-5.jpg" target="_blank">
-                                    <img src="https://www.dagdushethganpati.com/dg/wallpapers/Wallpaper-5.jpg"
-                                        alt="Dagdusheth Ganpati Wallpaper">
+                                <a href="./dg/wallpapers/Wallpaper-5.jpg" target="_blank">
+                                    <img src="./dg/wallpapers/Wallpaper-5.jpg"
+                                        alt="Trimurti Shakti Pith">
                                 </a>
                             </div>
                             <div class="portfolio-description">
-                                <a href="https://www.dagdushethganpati.com/wallpapers/5"
+                                <a href="./wallpapers/5"
                                     target="_blank"><i class="fa fa-download"></i></a>
                             </div>
                         </div>
