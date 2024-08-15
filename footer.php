@@ -74,7 +74,7 @@ $baseUrl = '/path-to-your-server-directory/';
                     <div class="col-lg-3">
                         <div class="widget">
                             <div class="widget-title">CONNECT WITH US</div>
-                            <div class="social-icons social-icons-medium social-icons-rounded social-icons-colored">
+                            <div class="social-icons large social-icons-medium social-icons-colored-hover float-left">
                                 <ul>
                                     <li class="social-facebook">
                                         <a href="https://www.facebook.com//"><i class="fab fa-facebook-f"></i></a>
