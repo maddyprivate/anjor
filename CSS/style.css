@@ -10407,6 +10407,16 @@ th .form-check .form-check-input,td .form-check .form-check-input {
     box-shadow: 0 0 1.25rem rgba(31,45,61,.05)
 }
 
+ .festival {
+    position: relative;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: stretch !important;
+    flex-direction: column;
+    box-shadow: 0 0 1.25rem rgba(31,45,61,.05);
+    height: 450px !important;
+}
+
 .card .badge {
     display: block;
     position: absolute;
@@ -11769,9 +11779,9 @@ ul.nav li.dropdown:hover>ul.dropdown-menu {
     border-radius: 0 6px 6px 6px
 }
 
-.social-icons {
+/* .social-icons {
     line-height: 0
-}
+} */
 
 .social-icons ul {
     padding: 0;

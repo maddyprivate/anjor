@@ -16,86 +16,26 @@
         <div class="row">
             <!-- sidebar -->
             <div class="sidebar col-lg-4 pb-3">
-                <div class="widget widget-gallery p-cb">
-                    <h4 class="widget-title">Mini Gallery</h4>
-                    <div data-lightbox="gallery">
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-1.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-1.webp">
-                        </a>
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-2.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-2.webp">
-                        </a>
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-3.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-3.webp">
-                        </a>
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-4.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-4.webp">
-                        </a>
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-5.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-5.webp">
-                        </a>
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-6.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-6.webp">
-                        </a>
-                    </div>
-                </div>
-                <!-- <div class="widget clearfix p-cb pb-3">
-                    <h4 class="widget-title">Video <img class="float-right"
-                    src="https://www..com/dg/sidebar/Live-Stream.webp" alt="Live Stream">
-                    </h4>
-                    <a href="https://www..com/live-darshan">
-                        <img class="w-100" src="https://www..com/dg/sidebar/Live-Darshan-Thumbnail.webp" alt="Live Darshan">
-                    </a>
-                </div> -->
-                <div class="widget p-cb pb-3">
-                    <h4 class="widget-title">Calendar</h4>
-                    <div class="text-center">
-                        <div id="calendarWidget"></div>
-                    </div>
-                </div>
-                <div class="widget p-cb pb-4">
-                    <h4 class="widget-title">Follow Us</h4>
-                    <div class="social-icons social-icons-medium social-icons-rounded social-icons-colored">
-                        <ul>
-                            <li class="social-facebook">
-                                <a href="https://www.facebook.com/dagadu/"><i class="fab fa-facebook-f"></i></a>
-                            </li>
-                            <li class="social-youtube">
-                                <a href="https://www.youtube.com/c/"><i class="fab fa-youtube"></i></a>
-                            </li>
-                            <li class="social-twitter">
-                                <a href="https://twitter.com/G"><i class="fab fa-twitter"></i></a>
-                            </li>
-                            <li class="social-instagram">
-                                <a href="https://www.instagram.com/shrimant"><i class="fab fa-instagram"></i></a>
-                            </li>
-                            <li class="social-pinterest">
-                                <a href="https://www.pinterest.com/G/"><i class="fab fa-pinterest"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="widget p-cb pb-4">
-                    <div class="card bg-red">
-                        <img class="card-img-top" src="https://www..com/dg/misc/donations.webp" alt="E-Donation">
-                        <div class="card-body text-center">
-                            <h3 class="card-title text-white mb-2">E-DONATION</h3>
-                            <a href="https://seva..com/donation" class="btn btn-outline btn-light">
-                                CLICK HERE </a>
-                        </div>
-                    </div>
-                </div>
+                <?php include('mini-gallery.php'); ?>
                 <div class="widget p-cb pb-4">
                     <div class="card bg-red">
                         <span class="badge bg-danger">NEW</span>
-                        <img class="card-img-top" src="https://www..com/dg/misc/yag-abhishek.webp" alt="E-Seva">
+                        <img class="card-img-top" src="./dg/gallery/33.jpg" alt="E-Seva">
                         <div class="card-body text-center">
                             <h3 class="card-title text-white mb-2">E-SEVA</h3>
-                            <a href="https://seva..com/eseva" class="btn btn-light text-red">
+                            <a href="eseva.php" class="btn btn-light text-red">
                                 BOOK NOW </a>
                         </div>
                     </div>
                 </div>
+                <!-- <div class="widget clearfix p-cb pb-3">
+                    <h4 class="widget-title">Video <img class="float-right"
+                    src="./dg/sidebar/Live-Stream.webp" alt="Live Stream">
+                    </h4>
+                    <a href="./live-darshan">
+                        <img class="w-100" src="./dg/sidebar/Live-Darshan-Thumbnail.webp" alt="Live Darshan">
+                    </a>
+                </div> -->
             </div>
             <!-- content -->
             <div class="content col-lg-8">
@@ -109,32 +49,12 @@
                     tincidunt dapibus, turpis lacus posuere nisi, eu sodales elit lectus non nisl. Nulla facilisi.
                     Mauris pretium justo a sapien vehicula, vel faucibus lectus tristique. Pellentesque habitant morbi
                     tristique senectus et netus et malesuada fames ac turpis egestas.
-
-                    Donec at magna id risus faucibus gravida. Vestibulum gravida urna sed orci consequat, eu ultrices
-                    libero suscipit. Sed auctor magna ut nisi bibendum, ac gravida enim fermentum. Aenean vehicula justo
-                    in odio interdum, eget scelerisque elit tincidunt. Nunc vel ligula sit amet nisi varius cursus.
-                    Donec ut diam vestibulum, interdum elit ac, consectetur risus. In hac habitasse platea dictumst.
-                    Fusce dictum nibh in ipsum posuere feugiat. Nullam condimentum, ligula et aliquet iaculis, velit
-                    odio consequat dolor, eget fringilla ex risus sed erat.
-
-                    Mauris ac volutpat libero. Phasellus id auctor odio. Aliquam erat volutpat. Ut bibendum ex quis
-                    sapien cursus suscipit. Nunc euismod lacus ac auctor fermentum. Praesent nec convallis orci. Nulla
-                    facilisi. Integer suscipit mauris sit amet varius ultricies. Vestibulum sollicitudin magna sit amet
-                    dolor sodales gravida. Suspendisse sed posuere urna. Aenean sagittis, urna a pharetra varius, libero
-                    erat aliquet augue, ut maximus nunc odio nec mi.
-
-                    Proin malesuada urna nec nisi vulputate, ac fringilla est gravida. Fusce auctor interdum risus id
-                    dapibus. Cras cursus tempor neque. Quisque sed est elit. Integer auctor libero vel sapien vehicula,
-                    non sodales metus varius. Nam dictum eros in urna dignissim, ac fermentum sem sollicitudin. Morbi in
-                    convallis nisi. Nam non justo felis. Suspendisse potenti. Nulla facilisi. Donec varius quam vel
-                    neque consequat tempor. Suspendisse id ex nec lorem facilisis pretium.
                 </p>
-
                 <div class="row mt-6">
                     <div class="col-lg-6">
-                        <a class="card festival" href="https://www..com/festivals/ganesh-janm"
+                        <a class="card festival" href="./festivals/ganesh-janm"
                             style="background: #b50d69;">
-                            <img class="card-img-top" src="https://www..com/dg/festivals/1-Ganesh-Janm.webp"
+                            <img class="card-img-top" src="./dg/gallery/3.jpg"
                                 alt="Ganesh Janm">
                             <div class="card-body text-center">
                                 <h3 class="card-title text-white mb-2">Dattatray Jayanti</h3>
@@ -151,7 +71,7 @@
                     </div>
                     <div class="col-lg-6">
                         <a class="card festival" href="#" style="background: #077b7d;">
-                            <img class="card-img-top" src="https://www..com/dg/festivals/2-Draksh-Mahotsav.webp" alt="">
+                            <img class="card-img-top" src="./dg/gallery/3.jpg" alt="">
                             <div class="card-body text-center">
                                 <h3 class="card-title text-white mb-2">Gajanan maharaj Prakat Din</h3>
                                 <p class="text-white">
@@ -167,9 +87,9 @@
 
                 <div class="row mt-3">
                     <div class="col-lg-6">
-                        <a class="card festival" href="https://www..com/festivals/suryaful-mahotsav"
+                        <a class="card festival" href="./festivals/suryaful-mahotsav"
                             style="background: #ad630e;">
-                            <img class="card-img-top" src="https://www..com/dg/festivals/3-Suryful-Mahotsav.webp"
+                            <img class="card-img-top" src="./dg/gallery/3.jpg"
                                 alt="Sunflower Festival">
                             <div class="card-body text-center">
                                 <h3 class="card-title text-white mb-2">Swami prakat din</h3>
@@ -180,14 +100,14 @@
                             </div>
                         </a>
                         <div class="text-center">
-                            <a href="https://www..com/festivals/suryaful-mahotsav"
+                            <a href="./festivals/suryaful-mahotsav"
                                 class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <a class="card festival" href="https://www..com/festivals/vallabhesh-mangalam"
+                        <a class="card festival" href="./festivals/vallabhesh-mangalam"
                             style="background: #102c57;">
-                            <img class="card-img-top" src="https://www..com/dg/festivals/4-Vallabhesh-Mangalam.webp"
+                            <img class="card-img-top" src="./dg/gallery/3.jpg"
                                 alt="Vallabhesh Mangalam">
                             <div class="card-body text-center">
                                 <h3 class="card-title text-white mb-2">Viajaya Dashmi </h3>
@@ -198,7 +118,7 @@
                             </div>
                         </a>
                         <div class="text-center">
-                            <a href="https://www..com/festivals/vallabhesh-mangalam"
+                            <a href="./festivals/vallabhesh-mangalam"
                                 class="btn btn-warning mt-1 mb-5">CLICK HERE</a>
                         </div>
                     </div>
@@ -207,9 +127,9 @@
                 <div class="row mt-3">
                     <div class="col-lg-3"></div>
                     <div class="col-lg-6">
-                        <a class="card festival" href="https://www..com/festivals/amba-mahotsav"
+                        <a class="card festival" href="./festivals/amba-mahotsav"
                             style="background: #b50d0c;">
-                            <img class="card-img-top" src="https://www..com/dg/festivals/5-Amba-Mahotsav.webp"
+                            <img class="card-img-top" src="./dg/gallery/3.jpg"
                                 alt="Mango Festival">
                             <div class="card-body text-center">
                                 <h3 class="card-title text-white mb-2">Gurupurnima</h3>
@@ -220,84 +140,85 @@
                             </div>
                         </a>
                         <div class="text-center">
-                            <a href="https://www..com/festivals/amba-mahotsav" class="btn btn-warning mt-1 mb-5">CLICK
+                            <a href="./festivals/amba-mahotsav" class="btn btn-warning mt-1 mb-5">CLICK
                                 HERE</a>
                         </div>
                     </div>
                     <!-- DONATION -->
                 </div>
-                <!-- WALLPAPERS -->
-                <h2 class="fw-bold mt-5 mb-4">WALLPAPERS</h2>
-                <div class="carousel" data-items="3" data-lightbox="gallery">
-                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
-                        <div class="portfolio-item-wrap">
-                            <div class="portfolio-image">
-                                <a href="https://www..com/dg/wallpapers/Wallpaper-1.jpg" target="_blank">
-                                    <img src="https://www..com/dg/wallpapers/Wallpaper-1.jpg" alt="  Wallpaper">
-                                </a>
-                            </div>
-                            <div class="portfolio-description">
-                                <a href="https://www..com/wallpapers/1" target="_blank"><i
-                                        class="fa fa-download"></i></a>
-                            </div>
+            </div>
+        </div>
+        <div class="row">
+            <!-- WALLPAPERS -->
+            <h2 class="fw-bold mt-5 mb-4 text-center">WALLPAPERS</h2>
+            <div class="carousel" data-items="3" data-lightbox="gallery">
+                <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+                    <div class="portfolio-item-wrap">
+                        <div class="portfolio-image">
+                            <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
+                            </a>
+                        </div>
+                        <div class="portfolio-description">
+                            <a href="./wallpapers/1" target="_blank"><i
+                                    class="fa fa-download"></i></a>
                         </div>
                     </div>
-                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
-                        <div class="portfolio-item-wrap">
-                            <div class="portfolio-image">
-                                <a href="https://www..com/dg/wallpapers/Wallpaper-2.jpg" target="_blank">
-                                    <img src="https://www..com/dg/wallpapers/Wallpaper-2.jpg" alt="  Wallpaper">
-                                </a>
-                            </div>
-                            <div class="portfolio-description">
-                                <a href="https://www..com/wallpapers/2" target="_blank"><i
-                                        class="fa fa-download"></i></a>
-                            </div>
+                </div>
+                <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+                    <div class="portfolio-item-wrap">
+                        <div class="portfolio-image">
+                            <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
+                            </a>
+                        </div>
+                        <div class="portfolio-description">
+                            <a href="./wallpapers/2" target="_blank"><i
+                                    class="fa fa-download"></i></a>
                         </div>
                     </div>
-                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
-                        <div class="portfolio-item-wrap">
-                            <div class="portfolio-image">
-                                <a href="https://www..com/dg/wallpapers/Wallpaper-3.jpg" target="_blank">
-                                    <img src="https://www..com/dg/wallpapers/Wallpaper-3.jpg" alt="  Wallpaper">
-                                </a>
-                            </div>
-                            <div class="portfolio-description">
-                                <a href="https://www..com/wallpapers/3" target="_blank"><i
-                                        class="fa fa-download"></i></a>
-                            </div>
+                </div>
+                <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+                    <div class="portfolio-item-wrap">
+                        <div class="portfolio-image">
+                            <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
+                            </a>
+                        </div>
+                        <div class="portfolio-description">
+                            <a href="./wallpapers/3" target="_blank"><i
+                                    class="fa fa-download"></i></a>
                         </div>
                     </div>
-                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
-                        <div class="portfolio-item-wrap">
-                            <div class="portfolio-image">
-                                <a href="https://www..com/dg/wallpapers/Wallpaper-4.jpg" target="_blank">
-                                    <img src="https://www..com/dg/wallpapers/Wallpaper-4.jpg" alt="  Wallpaper">
-                                </a>
-                            </div>
-                            <div class="portfolio-description">
-                                <a href="https://www..com/wallpapers/4" target="_blank"><i
-                                        class="fa fa-download"></i></a>
-                            </div>
+                </div>
+                <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+                    <div class="portfolio-item-wrap">
+                        <div class="portfolio-image">
+                            <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
+                            </a>
+                        </div>
+                        <div class="portfolio-description">
+                            <a href="./wallpapers/4" target="_blank"><i
+                                    class="fa fa-download"></i></a>
                         </div>
                     </div>
-                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
-                        <div class="portfolio-item-wrap">
-                            <div class="portfolio-image">
-                                <a href="https://www..com/dg/wallpapers/Wallpaper-5.jpg" target="_blank">
-                                    <img src="https://www..com/dg/wallpapers/Wallpaper-5.jpg" alt="  Wallpaper">
-                                </a>
-                            </div>
-                            <div class="portfolio-description">
-                                <a href="https://www..com/wallpapers/5" target="_blank"><i
-                                        class="fa fa-download"></i></a>
-                            </div>
+                </div>
+                <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+                    <div class="portfolio-item-wrap">
+                        <div class="portfolio-image">
+                            <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
+                            </a>
+                        </div>
+                        <div class="portfolio-description">
+                            <a href="./wallpapers/5" target="_blank"><i
+                                    class="fa fa-download"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
     </div>
 </section>
 

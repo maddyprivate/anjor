@@ -71,7 +71,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="card bg-red">
-                   <img class="card-img-top" src="/path/to/yag-abhishek.webp" alt="ESeva">
+                   <img class="card-img-top" src="./dg/gallery/33.jpg" alt="ESeva" style="max-height: 300px;">
                     <div class="card-body text-center">
                         <h3 class="card-title text-white mb-2">E-SEVA</h3>
                         <a href="./eseva.php" class="btn btn-light text-red">
@@ -82,7 +82,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="card bg-red">
-                    <img class="card-img-top" src="/path/to/donations.webp" alt="E-Donation">
+                    <img class="card-img-top" src="./dg/gallery/11.jpg" alt="E-Donation">
                     <div class="card-body text-center">
                         <h3 class="card-title text-white mb-2">E-DONATION</h3>
                         <a href="./donateus.php" class="btn btn-outline btn-light">

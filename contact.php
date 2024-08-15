@@ -115,7 +115,7 @@
         <div class="row mt-6">
             <div class="col-lg-6">
                 <div class="card bg-pink">
-                    <img class="card-img-top" src="/dg/social-Initiatives.webp" alt="Social Initiatives">
+                    <img class="card-img-top" src="./dg/gallery/11.jpg" alt="Social Initiatives">
                     <div class="card-body text-center">
                         <h3 class="card-title text-white mb-2">SOCIAL INITIATIVES</h3>
                         <p class="text-start text-light mb-0">
@@ -130,13 +130,9 @@
             </div>
             <div class="col-lg-6">
                 <div class="card bg-teal">
-                    <img class="card-img-top" src="/dg/misc/eseva.webp" alt="E-Seva">
+                    <img class="card-img-top" src="./dg/gallery/33-cropped.jpg" alt="E-Seva">
                     <div class="card-body text-center">
                         <h3 class="card-title text-white mb-2">E-SEVA</h3>
-                        <p class="text-start text-light mb-0">
-                            Perform various Sevas at the temple to seek Bappa’s blessings. Online bookings
-                            open. For more information click on the ‘Book Now’ button!
-                        </p>
                     </div>
                 </div>
 

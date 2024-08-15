@@ -100,6 +100,8 @@
             color: #970506;
         }
     </style>
+    <!-- Add your CSS files here -->
+    <link rel="stylesheet" href="/css/styles.css">
 </head>
 
 <body data-icon="2" data-icon-color="#ff0000">

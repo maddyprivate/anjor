@@ -5,12 +5,7 @@ $baseDir = 'C:/Users/HP/Desktop/Anjor/';
 $baseUrl = '/path-to-your-server-directory/';
 ?>
 
-<!-- Add your CSS files here -->
-<link rel="stylesheet" href="/css/styles.css">
-</head>
-
-<body>
-    <!-- Your page content here -->
+    <!-- Your footer content here -->
 
     <footer id="footer" class="inverted">
         <div class="footer-content">
@@ -97,11 +92,11 @@ $baseUrl = '/path-to-your-server-directory/';
                                         <a href="https://www.pinterest.com//"><i class="fab fa-pinterest"></i></a>
                                     </li>
                                 </ul>
-                                <div class="mr-4">
+                                <!-- <div class="mr-4">
                                     <a href="index.php" class="navbar-brand">
                                         <img src="./dg/Logo.png" alt="logo" hight="200" width="200">
                                     </a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

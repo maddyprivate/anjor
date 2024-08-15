@@ -95,151 +95,79 @@
                 <h2 id="yearly-schedule" class="fw-bold mt-5 mb-3">Calendar</h2>
 
                 <div id="templeScheduleCalendar"></div>
-
-                <div class="row mt-6">
-                    <div class="col-lg-6">
-                        <div class="card bg-pink">
-                            <img class="card-img-top" src="./dg/misc/donations.webp" alt="E-Donation">
-                            <div class="card-body text-center">
-                                <h3 class="card-title text-white mb-2">E-DONATION</h3>
-                                <a href="./donation" class="btn btn-outline btn-light">
-                                    CLICK HERE </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="card bg-teal">
-                            <span class="badge bg-danger">NEW</span>
-                            <img class="card-img-top" src="./dg/misc/yag-abhishek.webp" alt="E-Seva">
-                            <div class="card-body text-center">
-                                <h3 class="card-title text-white mb-2">E-SEVA</h3>
-                                <a href="./eseva" class="btn btn-light">
-                                    BOOK NOW </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
                 <!-- WALLPAPERS -->
-                <h2 class="fw-bold mt-5 mb-4">WALLPAPERS</h2>
+                <h2 class="fw-bold mt-5 mb-4 text-center">WALLPAPERS</h2>
                 <div class="carousel" data-items="3" data-lightbox="gallery">
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="./dg/wallpapers/Wallpaper-1.jpg" target="_blank">
-                                    <img src="./dg/wallpapers/Wallpaper-1.jpg" alt="Trimurti Shakti Pith">
+                                <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                    <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
                                 </a>
                             </div>
                             <div class="portfolio-description">
-                                <a href="./wallpapers/1" target="_blank"><i class="fa fa-download"></i></a>
+                                <a href="./wallpapers/1" target="_blank"><i
+                                        class="fa fa-download"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="./dg/wallpapers/Wallpaper-2.jpg" target="_blank">
-                                    <img src="./dg/wallpapers/Wallpaper-2.jpg" alt="Trimurti Shakti Pith">
+                                <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                    <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
                                 </a>
                             </div>
                             <div class="portfolio-description">
-                                <a href="./wallpapers/2" target="_blank"><i class="fa fa-download"></i></a>
+                                <a href="./wallpapers/2" target="_blank"><i
+                                        class="fa fa-download"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="./dg/wallpapers/Wallpaper-3.jpg" target="_blank">
-                                    <img src="./dg/wallpapers/Wallpaper-3.jpg" alt="Trimurti Shakti Pith">
+                                <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                    <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
                                 </a>
                             </div>
                             <div class="portfolio-description">
-                                <a href="./wallpapers/3" target="_blank"><i class="fa fa-download"></i></a>
+                                <a href="./wallpapers/3" target="_blank"><i
+                                        class="fa fa-download"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="./dg/wallpapers/Wallpaper-4.jpg" target="_blank">
-                                    <img src="./dg/wallpapers/Wallpaper-4.jpg" alt="Trimurti Shakti Pith">
+                                <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                    <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
                                 </a>
                             </div>
                             <div class="portfolio-description">
-                                <a href="./wallpapers/4" target="_blank"><i class="fa fa-download"></i></a>
+                                <a href="./wallpapers/4" target="_blank"><i
+                                        class="fa fa-download"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="./dg/wallpapers/Wallpaper-5.jpg" target="_blank">
-                                    <img src="./dg/wallpapers/Wallpaper-5.jpg" alt="Trimurti Shakti Pith">
+                                <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                    <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
                                 </a>
                             </div>
                             <div class="portfolio-description">
-                                <a href="./wallpapers/5" target="_blank"><i class="fa fa-download"></i></a>
+                                <a href="./wallpapers/5" target="_blank"><i
+                                        class="fa fa-download"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
             <div class="sidebar col-lg-4 pb-3">
-
-                <div class="widget widget-gallery p-cb">
-                    <h4 class="widget-title">Mini Gallery</h4>
-                    <div data-lightbox="gallery">
-                        <a href="./dg/sidebar/Mini-Gallery-Image-1.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-1.webp">
-                        </a>
-                        <a href="./dg/sidebar/Mini-Gallery-Image-2.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-2.webp">
-                        </a>
-                        <a href="./dg/sidebar/Mini-Gallery-Image-3.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-3.webp">
-                        </a>
-                        <a href="./dg/sidebar/Mini-Gallery-Image-4.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-4.webp">
-                        </a>
-                        <a href="./dg/sidebar/Mini-Gallery-Image-5.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-5.webp">
-                        </a>
-                        <a href="./dg/sidebar/Mini-Gallery-Image-6.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="./dg/sidebar/Mini-Gallery-Image-6.webp">
-                        </a>
-                    </div>
-                </div>
-
-
-
-
-                <div class="widget p-cb pb-4">
-                    <h4 class="widget-title">Follow Us</h4>
-                    <div class="social-icons social-icons-medium social-icons-rounded social-icons-colored">
-                        <ul>
-                            <li class="social-facebook">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            </li>
-                            <li class="social-youtube">
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </li>
-                            <li class="social-twitter">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                            </li>
-                            <li class="social-instagram">
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                            </li>
-                            <li class="social-pinterest">
-                                <a href="#"><i class="fab fa-pinterest"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+                <?php include('mini-gallery.php'); ?>
             </div>
-
         </div>
     </div>
 </section>
