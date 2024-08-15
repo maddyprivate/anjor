@@ -14,6 +14,89 @@
 <section id="page-content" class="sidebar-right">
     <div class="container">
         <div class="row">
+            <!-- sidebar -->
+            <div class="sidebar col-lg-4 pb-3">
+                <div class="widget widget-gallery p-cb">
+                    <h4 class="widget-title">Mini Gallery</h4>
+                    <div data-lightbox="gallery">
+                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-1.webp" data-lightbox="gallery-image">
+                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-1.webp">
+                        </a>
+                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-2.webp" data-lightbox="gallery-image">
+                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-2.webp">
+                        </a>
+                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-3.webp" data-lightbox="gallery-image">
+                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-3.webp">
+                        </a>
+                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-4.webp" data-lightbox="gallery-image">
+                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-4.webp">
+                        </a>
+                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-5.webp" data-lightbox="gallery-image">
+                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-5.webp">
+                        </a>
+                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-6.webp" data-lightbox="gallery-image">
+                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-6.webp">
+                        </a>
+                    </div>
+                </div>
+                <!-- <div class="widget clearfix p-cb pb-3">
+                    <h4 class="widget-title">Video <img class="float-right"
+                    src="https://www..com/dg/sidebar/Live-Stream.webp" alt="Live Stream">
+                    </h4>
+                    <a href="https://www..com/live-darshan">
+                        <img class="w-100" src="https://www..com/dg/sidebar/Live-Darshan-Thumbnail.webp" alt="Live Darshan">
+                    </a>
+                </div> -->
+                <div class="widget p-cb pb-3">
+                    <h4 class="widget-title">Calendar</h4>
+                    <div class="text-center">
+                        <div id="calendarWidget"></div>
+                    </div>
+                </div>
+                <div class="widget p-cb pb-4">
+                    <h4 class="widget-title">Follow Us</h4>
+                    <div class="social-icons social-icons-medium social-icons-rounded social-icons-colored">
+                        <ul>
+                            <li class="social-facebook">
+                                <a href="https://www.facebook.com/dagadu/"><i class="fab fa-facebook-f"></i></a>
+                            </li>
+                            <li class="social-youtube">
+                                <a href="https://www.youtube.com/c/"><i class="fab fa-youtube"></i></a>
+                            </li>
+                            <li class="social-twitter">
+                                <a href="https://twitter.com/G"><i class="fab fa-twitter"></i></a>
+                            </li>
+                            <li class="social-instagram">
+                                <a href="https://www.instagram.com/shrimant"><i class="fab fa-instagram"></i></a>
+                            </li>
+                            <li class="social-pinterest">
+                                <a href="https://www.pinterest.com/G/"><i class="fab fa-pinterest"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="widget p-cb pb-4">
+                    <div class="card bg-red">
+                        <img class="card-img-top" src="https://www..com/dg/misc/donations.webp" alt="E-Donation">
+                        <div class="card-body text-center">
+                            <h3 class="card-title text-white mb-2">E-DONATION</h3>
+                            <a href="https://seva..com/donation" class="btn btn-outline btn-light">
+                                CLICK HERE </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget p-cb pb-4">
+                    <div class="card bg-red">
+                        <span class="badge bg-danger">NEW</span>
+                        <img class="card-img-top" src="https://www..com/dg/misc/yag-abhishek.webp" alt="E-Seva">
+                        <div class="card-body text-center">
+                            <h3 class="card-title text-white mb-2">E-SEVA</h3>
+                            <a href="https://seva..com/eseva" class="btn btn-light text-red">
+                                BOOK NOW </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!-- content -->
             <div class="content col-lg-8">
                 <h2 class="fw-bold">FESTIVALS</h2>
@@ -141,13 +224,8 @@
                                 HERE</a>
                         </div>
                     </div>
-
-
                     <!-- DONATION -->
-
-
                 </div>
-
                 <!-- WALLPAPERS -->
                 <h2 class="fw-bold mt-5 mb-4">WALLPAPERS</h2>
                 <div class="carousel" data-items="3" data-lightbox="gallery">
@@ -218,98 +296,6 @@
                     </div>
                 </div>
             </div>
-            <!-- sidebar -->
-            <div class="sidebar col-lg-4 pb-3">
-
-                <div class="widget widget-gallery p-cb">
-                    <h4 class="widget-title">Mini Gallery</h4>
-                    <div data-lightbox="gallery">
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-1.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-1.webp">
-                        </a>
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-2.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-2.webp">
-                        </a>
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-3.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-3.webp">
-                        </a>
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-4.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-4.webp">
-                        </a>
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-5.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-5.webp">
-                        </a>
-                        <a href="https://www..com/dg/sidebar/Mini-Gallery-Image-6.webp" data-lightbox="gallery-image">
-                            <img alt="image" src="https://www..com/dg/sidebar/Mini-Gallery-Image-6.webp">
-                        </a>
-                    </div>
-                </div>
-
-
-                <!-- <div class="widget clearfix p-cb pb-3">
-            <h4 class="widget-title">Video <img class="float-right"
-                    src="https://www..com/dg/sidebar/Live-Stream.webp" alt="Live Stream">
-            </h4>
-            <a href="https://www..com/live-darshan">
-                <img class="w-100" src="https://www..com/dg/sidebar/Live-Darshan-Thumbnail.webp" alt="Live Darshan">
-            </a>
-        </div> -->
-
-
-                <div class="widget p-cb pb-3">
-                    <h4 class="widget-title">Calendar</h4>
-                    <div class="text-center">
-                        <div id="calendarWidget"></div>
-                    </div>
-                </div>
-
-
-                <div class="widget p-cb pb-4">
-                    <h4 class="widget-title">Follow Us</h4>
-                    <div class="social-icons social-icons-medium social-icons-rounded social-icons-colored">
-                        <ul>
-                            <li class="social-facebook">
-                                <a href="https://www.facebook.com/dagadu/"><i class="fab fa-facebook-f"></i></a>
-                            </li>
-                            <li class="social-youtube">
-                                <a href="https://www.youtube.com/c/"><i class="fab fa-youtube"></i></a>
-                            </li>
-                            <li class="social-twitter">
-                                <a href="https://twitter.com/G"><i class="fab fa-twitter"></i></a>
-                            </li>
-                            <li class="social-instagram">
-                                <a href="https://www.instagram.com/shrimant"><i class="fab fa-instagram"></i></a>
-                            </li>
-                            <li class="social-pinterest">
-                                <a href="https://www.pinterest.com/G/"><i class="fab fa-pinterest"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="widget p-cb pb-4">
-                    <div class="card bg-red">
-                        <img class="card-img-top" src="https://www..com/dg/misc/donations.webp" alt="E-Donation">
-                        <div class="card-body text-center">
-                            <h3 class="card-title text-white mb-2">E-DONATION</h3>
-                            <a href="https://seva..com/donation" class="btn btn-outline btn-light">
-                                CLICK HERE </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="widget p-cb pb-4">
-                    <div class="card bg-red">
-                        <span class="badge bg-danger">NEW</span>
-                        <img class="card-img-top" src="https://www..com/dg/misc/yag-abhishek.webp" alt="E-Seva">
-                        <div class="card-body text-center">
-                            <h3 class="card-title text-white mb-2">E-SEVA</h3>
-                            <a href="https://seva..com/eseva" class="btn btn-light text-red">
-                                BOOK NOW </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
         </div>
     </div>
     </div>

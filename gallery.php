@@ -14,83 +14,29 @@
 <!-- SOCIAL INITIATIVES -->
 <section>
     <div class="container mb-4">
-        <h2 class="fw-bold">SOCIAL INITIATIVES</h2>
+        <h2 class="fw-bold">Photo Gallery</h2>
     </div>
     <div class="container-fluid">
         <div class="grid-layout grid-5-columns" data-margin="20" data-item="grid-item" data-lightbox="gallery">
+            <?php for($i=1;$i<=51;$i++) {
+                $imagePath = "./dg/gallery/".$i.".jpg";
+            ?>
             <div class="grid-item">
-                <a class="image-hover-zoom" href="./dg/gallery/social-initiatives/social-initiatives-1.webp"
+                <a class="image-hover-zoom" href="<?php echo $imagePath; ?>"
                     data-lightbox="gallery-image">
-                    <img src="./dg/gallery/social-initiatives/social-initiatives-1.webp">
+                    <img src="<?php echo $imagePath; ?>">
                 </a>
             </div>
-            <div class="grid-item">
-                <a class="image-hover-zoom" href="./dg/gallery/social-initiatives/social-initiatives-2.webp"
-                    data-lightbox="gallery-image">
-                    <img src="./dg/gallery/social-initiatives/social-initiatives-2.webp">
-                </a>
-            </div>
-            <div class="grid-item">
-                <a class="image-hover-zoom" href="./dg/gallery/social-initiatives/social-initiatives-3.webp"
-                    data-lightbox="gallery-image">
-                    <img src="./dg/gallery/social-initiatives/social-initiatives-3.webp">
-                </a>
-            </div>
-            <div class="grid-item">
-                <a class="image-hover-zoom" href="./dg/gallery/social-initiatives/social-initiatives-4.webp"
-                    data-lightbox="gallery-image">
-                    <img src="./dg/gallery/social-initiatives/social-initiatives-4.webp">
-                </a>
-            </div>
-            <div class="grid-item">
-                <a class="image-hover-zoom" href="./dg/gallery/social-initiatives/social-initiatives-5.webp"
-                    data-lightbox="gallery-image">
-                    <img src="./dg/gallery/social-initiatives/social-initiatives-5.webp">
-                </a>
-            </div>
-            <div class="grid-item">
-                <a class="image-hover-zoom" href="./dg/gallery/social-initiatives/social-initiatives-6.webp"
-                    data-lightbox="gallery-image">
-                    <img src="./dg/gallery/social-initiatives/social-initiatives-6.webp">
-                </a>
-            </div>
-            <div class="grid-item">
-                <a class="image-hover-zoom" href="./dg/gallery/social-initiatives/social-initiatives-7.webp"
-                    data-lightbox="gallery-image">
-                    <img src="./dg/gallery/social-initiatives/social-initiatives-7.webp">
-                </a>
-            </div>
-            <div class="grid-item">
-                <a class="image-hover-zoom" href="./dg/gallery/social-initiatives/social-initiatives-8.webp"
-                    data-lightbox="gallery-image">
-                    <img src="./dg/gallery/social-initiatives/social-initiatives-8.webp">
-                </a>
-            </div>
-            <div class="grid-item">
-                <a class="image-hover-zoom" href="./dg/gallery/social-initiatives/social-initiatives-9.webp"
-                    data-lightbox="gallery-image">
-                    <img src="./dg/gallery/social-initiatives/social-initiatives-9.webp">
-                </a>
-            </div>
-            <div class="grid-item">
-                <a class="image-hover-zoom" href="./dg/gallery/social-initiatives/social-initiatives-10.webp"
-                    data-lightbox="gallery-image">
-                    <img src="./dg/gallery/social-initiatives/social-initiatives-10.webp">
-                </a>
-            </div>
+            <?php } ?>
         </div>
     </div>
 </section>
 
 <!-- FESTIVALS -->
 <section class="pt-0 pb-0">
-    <div class="container">
-        <h2 class="fw-bold mb-2">FESTIVALS</h2>
-    </div>
-
     <!-- Mango Festival -->
     <div class="container mb-4">
-        <h3 class="fw-bold">Mango Festival</h3>
+        <h3 class="fw-bold">Title</h3>
     </div>
     <div class="container-fluid">
         <div class="grid-layout grid-5-columns" data-margin="20" data-item="grid-item" data-lightbox="gallery">
@@ -159,7 +105,7 @@
 
     <!-- Dahi Handi -->
     <div class="container mt-4 mb-4">
-        <h3 class="fw-bold">Dahi Handi</h3>
+        <h3 class="fw-bold">Title</h3>
     </div>
     <div class="container-fluid">
         <div class="grid-layout grid-5-columns" data-margin="20" data-item="grid-item" data-lightbox="gallery">
@@ -228,7 +174,7 @@
 
     <!-- Grapes Festival -->
     <div class="container mt-4 mb-4">
-        <h3 class="fw-bold">Grapes Festival</h3>
+        <h3 class="fw-bold">Title</h3>
     </div>
     <div class="container-fluid">
         <div class="grid-layout grid-5-columns" data-margin="20" data-item="grid-item" data-lightbox="gallery">
@@ -299,7 +245,7 @@
 <!-- E-SEVA -->
 <section class="pb-0 pt-5">
     <div class="container mb-4">
-        <h2 class="fw-bold">E-SEVA</h2>
+        <h2 class="fw-bold">Title</h2>
     </div>
     <div class="container-fluid">
         <div class="grid-layout grid-5-columns" data-margin="20" data-item="grid-item" data-lightbox="gallery">
