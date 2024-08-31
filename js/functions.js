@@ -641,7 +641,7 @@ var INSPIRO = {},
                                 $pageMenu.addClass("sticky-active");
                                 $header.addClass("pageMenu-sticky");
                             } else {
-                                $pageMenu.removeClass("sticky-active");
+                                // $pageMenu.removeClass("sticky-active");
                                 $header.removeClass("pageMenu-sticky");
                             }
                         });

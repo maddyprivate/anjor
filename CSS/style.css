@@ -1180,8 +1180,9 @@ section.dark,.dark section {
     position: relative;
     width: 100%;
     z-index: 199 !important;
-    height: 80px;
-    line-height: 80px
+    height: 70px;
+    line-height: 80px;
+    background-color: sienna   ;
 }
 
 #header .container {

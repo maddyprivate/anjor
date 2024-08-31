@@ -106,7 +106,7 @@
 
 <body data-icon="2" data-icon-color="#ff0000">
     <div class="body-inner">
-        <header id="header" data-transparent="true" data-fullwidth="false" data-responsive-fixed="true" class="dark">
+        <header id="header" data-transparent="true" data-fullwidth="false"  class="dark">
             <div class="header-inner">
                 <div class="container">
                     <!--Logo-->
@@ -205,6 +205,14 @@
                         </div>
                     </div>
                     <!--end: Navigation-->
+
                 </div>
             </div>
         </header>
+                    <!-- NEWS -->
+                    <div id="notice" class="p-t-10 p-b-10">
+                <div class="container p-t-2">
+                    <marquee behavior="" direction="left">
+                        upcoming news will rotate on this page section.                    </marquee>
+                </div>
+</div> 

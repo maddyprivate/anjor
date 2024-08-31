@@ -4,7 +4,7 @@
 $baseDir = 'C:/Users/HP/Desktop/Anjor/';
 $baseUrl = '/path-to-your-server-directory/';
 ?>
-
+        
     <!-- Your footer content here -->
 
     <footer id="footer" class="inverted">
