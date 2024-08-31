@@ -13799,51 +13799,51 @@ div.icon-box:before {
     box-sizing: initial;
     opacity: 0;
     border-radius: 50%;
-    box-shadow: 0 0px 15px rgba(0,0,0,.1)
+    box-shadow: 0 0px 15px rgba(0,0,0,.1);
 }
 
 .flickity-button:before {
-    color: #1e2022
+    color: #1e2022;
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
 }
 
 .flickity-button:hover {
-    background-color: #2250fc
+    background-color: #2250fc;
 }
 
 .flickity-button:hover:before {
-    color: #fff
-}
-
-.flickity-button.next:before,.flickity-button.previous:before {
-    font-size: 25px;
-    font-family: inspiro-icons !important
-}
-
-.flickity-button.next {
-    right: 0px
+    color: #fff;
 }
 
 .flickity-button.next:before {
+    content: "\f054"; 
+    font-size: 25px;
     margin-left: 4px;
-    content: "î¤°"
-}
-
-.flickity-button.next.disabled {
-    opacity: 0
-}
-
-.flickity-button.previous {
-    left: 0px
 }
 
 .flickity-button.previous:before {
-    content: "î¤¯";
-    margin-right: 2px
+    content: "\f053"; 
+    font-size: 25px;
+    margin-right: 2px;
+}
+
+.flickity-button.next {
+    right: 0px;
+}
+
+.flickity-button.next.disabled {
+    opacity: 0;
+}
+
+.flickity-button.previous {
+    left: 0px;
 }
 
 .flickity-button.previous.disabled {
-    opacity: 0
+    opacity: 0;
 }
+
 
 .flickity-button svg {
     display: none !important

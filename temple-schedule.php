@@ -57,29 +57,29 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>08th SEPTEMBER 2024</td>
+                            <td>SHREE GANJANA MAHARAJ PUNYATITHI</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>12th OCTOBER 2024</td>
+                            <td>VIJAYDASHMI, DASHARRA, SAI BABA JAYANTI</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>16th OCTOBER 2024</td>
+                            <td>KOJAGIRI POURNIMA</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>01st NOV 2024</td>
+                            <td>DIWALI PAHATA</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>14th DEC 2024 </td>
+                            <td>SHRI DATTA MAHARAJ JAYANTI</td>
                         </tr>
                     </tbody>
                 </table>
 
-                <h4 id="upcoming-schedule" class="text-center mt-5 mb-3">UPCOMING SCHEDULE</h4>
+               <!-- <h4 id="upcoming-schedule" class="text-center mt-5 mb-3">UPCOMING SCHEDULE</h4>
 
                 <table class="table table-striped">
                     <thead>
@@ -94,7 +94,7 @@
 
                 <h2 id="yearly-schedule" class="fw-bold mt-5 mb-3">Calendar</h2>
 
-                <div id="templeScheduleCalendar"></div>
+                <div id="templeScheduleCalendar"></div>-->
                 <!-- WALLPAPERS -->
                 <h2 class="fw-bold mt-5 mb-4 text-center">WALLPAPERS</h2>
                 <div class="carousel" data-items="3" data-lightbox="gallery">

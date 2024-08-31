@@ -77,19 +77,19 @@ $baseUrl = '/path-to-your-server-directory/';
                             <div class="social-icons large social-icons-medium social-icons-colored-hover float-left">
                                 <ul>
                                     <li class="social-facebook">
-                                        <a href="https://www.facebook.com//"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://m.facebook.com/groups/swamisanket/?ref=share&mibextid=KtfwRi" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                     </li>
                                     <li class="social-youtube">
-                                        <a href="https://www.youtube.com/c/"><i class="fab fa-youtube"></i></a>
+                                        <a href="https://youtube.com/@swamisanketanubhuti?si=yY1BPtq_fsYsOXry" target="_blank"><i class="fab fa-youtube"></i></a>
                                     </li>
                                     <li class="social-twitter">
-                                        <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+                                        <a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
                                     </li>
                                     <li class="social-instagram">
-                                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                                        <a href="https://www.instagram.com/anjor_trimurti?igsh=cG84emc2Mm8xa28=" target="_blank"><i class="fab fa-instagram"></i></a>
                                     </li>
                                     <li class="social-pinterest">
-                                        <a href="https://www.pinterest.com//"><i class="fab fa-pinterest"></i></a>
+                                        <a href="https://www.pinterest.com//" target="_blank"><i class="fab fa-pinterest"></i></a>
                                     </li>
                                 </ul>
                                 <!-- <div class="mr-4">
@@ -140,6 +140,8 @@ $baseUrl = '/path-to-your-server-directory/';
             });
         });
     </script>
+
+    
 </body>
 
 </html>

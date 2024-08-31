@@ -33,19 +33,19 @@
     <div class="social-icons social-icons-medium social-icons-rounded social-icons-colored">
         <ul>
             <li class="social-facebook">
-                <a href="https://www.facebook.com/dagadu/"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://m.facebook.com/groups/swamisanket/?ref=share&mibextid=KtfwRi" target="_blank"><i class="fab fa-facebook-f"></i></a>
             </li>
             <li class="social-youtube">
-                <a href="https://www.youtube.com/c/"><i class="fab fa-youtube"></i></a>
+                <a href="https://youtube.com/@swamisanketanubhuti?si=yY1BPtq_fsYsOXry" target="_blank"><i class="fab fa-youtube"></i></a>
             </li>
             <li class="social-twitter">
-                <a href="https://twitter.com/G"><i class="fab fa-twitter"></i></a>
+                <a href="https://twitter.com/G" target="_blank"><i class="fab fa-twitter"></i></a>
             </li>
             <li class="social-instagram">
-                <a href="https://www.instagram.com/shrimant"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.instagram.com/anjor_trimurti?igsh=cG84emc2Mm8xa28=" target="_blank"><i class="fab fa-instagram"></i></a>
             </li>
             <li class="social-pinterest">
-                <a href="https://www.pinterest.com/G/"><i class="fab fa-pinterest"></i></a>
+                <a href="https://www.pinterest.com/G/" target="_blank"><i class="fab fa-pinterest"></i></a>
             </li>
         </ul>
     </div>

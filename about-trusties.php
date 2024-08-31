@@ -10,7 +10,7 @@
     </div>
 </section>
 
-<!-- <section id="page-content">
+<section id="page-content">
         <div class="container">
             <h2 class="fw-bold text-uppercase">Founder Trustees - Pillars of the Trust</h2>
 
@@ -127,98 +127,77 @@
 
             
             <!-- WALLPAPERS -->
-<!--<h2 class="fw-bold mt-5 mb-4">WALLPAPERS</h2>
-    <div class="carousel" data-items="3" data-lightbox="gallery">
+            <h2 class="fw-bold mt-5 mb-4 text-center">WALLPAPERS</h2>
+                <div class="carousel" data-items="3" data-lightbox="gallery">
                     <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
-                <div class="portfolio-item-wrap">
-                    <div class="portfolio-image">
-                        <a href="C:\Users\HP\Desktop\Anjor\dg/wallpapers/Wallpaper-1.jpg" target="_blank">
-                            <img src="C:\Users\HP\Desktop\Anjor\dg/wallpapers/Wallpaper-1.jpg"
-                                alt="Trimurti Shaktipith Wallpaper">
-                        </a>
-                    </div>
-                    <div class="portfolio-description">
-                        <a href="C:\Users\HP\Desktop\Anjor\wallpapers/1" target="_blank"><i
-                                class="fa fa-download"></i></a>
-                    </div>
-                </div>
-            </div>
-                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
-                <div class="portfolio-item-wrap">
-                    <div class="portfolio-image">
-                        <a href="C:\Users\HP\Desktop\Anjor\dg/wallpapers/Wallpaper-2.jpg" target="_blank">
-                            <img src="C:\Users\HP\Desktop\Anjor\dg/wallpapers/Wallpaper-2.jpg"
-                                alt="Trimurti Shaktipith  Wallpaper">
-                        </a>
-                    </div>
-                    <div class="portfolio-description">
-                        <a href="C:\Users\HP\Desktop\Anjor\wallpapers/2" target="_blank"><i
-                                class="fa fa-download"></i></a>
-                    </div>
-                </div>
-            </div>
-                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
-                <div class="portfolio-item-wrap">
-                    <div class="portfolio-image">
-                        <a href="C:\Users\HP\Desktop\Anjor\dg/wallpapers/Wallpaper-3.jpg" target="_blank">
-                            <img src="C:\Users\HP\Desktop\Anjor\dg/wallpapers/Wallpaper-3.jpg"
-                                alt="Trimurti Shaktipith  Wallpaper">
-                        </a>
-                    </div>
-                    <div class="portfolio-description">
-                        <a href="C:\Users\HP\Desktop\Anjor\wallpapers/3" target="_blank"><i
-                                class="fa fa-download"></i></a>
-                    </div>
-                </div>
-            </div>
-                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
-                <div class="portfolio-item-wrap">
-                    <div class="portfolio-image">
-                        <a href="C:\Users\HP\Desktop\Anjor\dg/wallpapers/Wallpaper-4.jpg" target="_blank">
-                            <img src="C:\Users\HP\Desktop\Anjor\dg/wallpapers/Wallpaper-4.jpg"
-                                alt="Trimurti Shaktipith  Wallpaper">
-                        </a>
-                    </div>
-                    <div class="portfolio-description">
-                        <a href="C:\Users\HP\Desktop\Anjor\wallpapers/4" target="_blank"><i
-                                class="fa fa-download"></i></a>
-                    </div>
-                </div>
-            </div>
-                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
-                <div class="portfolio-item-wrap">
-                    <div class="portfolio-image">
-                        <a href="C:\Users\HP\Desktop\Anjor\dg/wallpapers/Wallpaper-5.jpg" target="_blank">
-                            <img src="C:\Users\HP\Desktop\Anjor\dg/wallpapers/Wallpaper-5.jpg"
-                                alt="Trimurti Shaktipith  Wallpaper">
-                        </a>
-                    </div>
-                    <div class="portfolio-description">
-                        <a href="C:\Users\HP\Desktop\Anjor\wallpapers/5" target="_blank"><i
-                                class="fa fa-download"></i></a>
-                    </div>
-                </div>
-            </div>
-            </div>
-
-           <!-- <h4 class="mt-7 mb-3 fw-600 text-center">To download the PDF of Shreemant Trimurti Shaktipith Halwai  Trust Ganesh Ahwal 2023</h4>
-
-            <div class="row">
-                <div class="col-lg-4"></div>
-                <div class="col-lg-4">
-                    <div class="icon-box-1 bg-dg">
-                        <div class="icon-holder"><i class="icon-book-open"></i></div>
-                        <div class="box-text">AHWAL <span class="lang-mr">&nbsp; 2023</span>
+                        <div class="portfolio-item-wrap">
+                            <div class="portfolio-image">
+                                <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                    <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
+                                </a>
+                            </div>
+                            <div class="portfolio-description">
+                                <a href="./wallpapers/1" target="_blank"><i
+                                        class="fa fa-download"></i></a>
+                            </div>
                         </div>
                     </div>
-                    <div class="text-center">
-                        <a href="C:\Users\HP\Desktop\Anjor\dg/files/SDHGT_Ahwal_2023.pdf" target="_blank"
-                            class="btn btn-warning mt-4 mb-5">DOWNLOAD</a>
+                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+                        <div class="portfolio-item-wrap">
+                            <div class="portfolio-image">
+                                <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                    <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
+                                </a>
+                            </div>
+                            <div class="portfolio-description">
+                                <a href="./wallpapers/2" target="_blank"><i
+                                        class="fa fa-download"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+                        <div class="portfolio-item-wrap">
+                            <div class="portfolio-image">
+                                <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                    <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
+                                </a>
+                            </div>
+                            <div class="portfolio-description">
+                                <a href="./wallpapers/3" target="_blank"><i
+                                        class="fa fa-download"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+                        <div class="portfolio-item-wrap">
+                            <div class="portfolio-image">
+                                <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                    <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
+                                </a>
+                            </div>
+                            <div class="portfolio-description">
+                                <a href="./wallpapers/4" target="_blank"><i
+                                        class="fa fa-download"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio-item img-zoom ct-photography ct-marketing ct-media">
+                        <div class="portfolio-item-wrap">
+                            <div class="portfolio-image">
+                                <a href="./dg/gallery/wallpapers/51.jpg" target="_blank">
+                                    <img src="./dg/gallery/wallpapers/51.jpg" alt="  Wallpaper">
+                                </a>
+                            </div>
+                            <div class="portfolio-description">
+                                <a href="./wallpapers/5" target="_blank"><i
+                                        class="fa fa-download"></i></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-4"></div>
             </div>
+
         </div>
-    </section>-->
+    </section>
 
 <?php include 'footer.php'; ?>
