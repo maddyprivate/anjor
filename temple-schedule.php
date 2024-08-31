@@ -28,20 +28,26 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>Sunday to Saturday</td>
+                            <td>Aarti of Lord Ganesh followed by Shree Datta Maharaj, Shree Gajanan Maharaj,</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>Morning 7:30 AM</td>
+                            <td> Shree Sainath Maharaj and Shree Swami Samarth Maharaj.</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>Sunday to Saturday</td>
+                            <td>Aarti of Lord Ganesh followed by Shree Datta Maharaj, Shree Gajanan Maharaj,</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>Evening 7:30 PM</td>
+                            <td> Shree Sainath Maharaj and Shree Swami Samarth Maharaj.</td>
+                        </tr>
+                        <tr>
+                        <tr>
+                            <td>Thursday 8:00pm till 9:30pm</td>
+                            <td>MahaPrasad.
+                            </td>
                         </tr>
                     </tbody>
                 </table>

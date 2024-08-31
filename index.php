@@ -41,7 +41,7 @@
                    
                 </div>
                 <div class="text-center">
-                    <a href="/path/to/temple-schedule#daily-schedule" class="btn btn-warning mt-4 mb-5">CLICK HERE</a>
+                    <a href="/path/to/temple-schedule.php#daily-schedule" class="btn btn-warning mt-4 mb-5">CLICK HERE</a>
                 </div>
             </div>
             <div class="col-lg-4">
@@ -125,5 +125,19 @@
         </div>
     </div>
 </section>
+<?php
+$url = '/path/to/temple-schedule.php';
+$dom = new DOMDocument();
+libxml_use_internal_errors(true); // To handle any HTML parsing errors
+$dom->loadHTMLFile($url);
+libxml_clear_errors();
+
+$element = $dom->getElementById('daily-schedule');
+if ($element) {
+    echo $dom->saveHTML($element);
+} else {
+    echo 'Element not found.';
+}
+?>
 
 <?php include 'footer.php'; ?>
