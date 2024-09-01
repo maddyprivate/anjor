@@ -12,117 +12,105 @@
 
 <section id="page-content">
         <div class="container">
-            <h2 class="fw-bold text-uppercase">Founder Trustees - Pillars of the Trust</h2>
+            <h2 class="fw-bold text-uppercase">Founders of Integrity: Pillars of Our Trust</h2>
 
             <p class="p-large mb-5">
-                                    Shreemant h Halwai Sarvajanik Ganapati Trust is Fortunate to have visionary Trustees who have
-                    been taking the activities of the Trust ahead with their exemplary integrity and dedication.
+            TRUSTEES OF SHREE DATTA MAHARAJ TRIMURTI SHAKTI PITH – PUNE
                             </p>
 
-            <div class="row">
+            <div class="row text-center">
                 <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Tatyasaheb-Godse.webp" alt="Shri. Tatyasaheb Godse">
+                    <img class="mb-2" src="./dg/trustees/atuldada.jpg" alt="">
                     <p class="trustee">
-                        Shri. <br>
-                        Trustee                    </p>
+                        Guruvarya Shri Atuldada Samarth<br>
+                        Founder of Shri Datta Maharaj Trimurti Shakti Pith – Pune                    </p>
                 </div>
                 <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Mamasaheb-Rasne.webp" alt="Shri. Mamasaheb Rasne">
+                    <img class="mb-1" src="./dg/trustees/supriyatai.JPG" alt="">
                     <p class="trustee">
-                        Shri. <br>
-                        Trustee                    </p>
-                </div>
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Shankarrao-Suryavanshi.webp"
-                        alt="Shri. Shankarrao Suryavanshi">
-                    <p class="trustee">
-                        Shri. <br>
-                        Trustee                    </p>
-                </div>
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Kashinath-Rasne.webp" alt="Shri. Kashinath Rasne">
-                    <p class="trustee">
-                        Shri.                     </p>
-                </div>
-            </div>
-
-            <h2 class="fw-bold text-uppercase">Present Trustees</h2>
-
-            <div class="row">
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Manikrao-Chavan.webp" alt="Shri. Manikrao Chavan">
-                    <p class="trustee">
-                        Shri. <br>
+                        Adv. Smt. Supriya Atul Samarth (MA LLB) <br>
                         President                    </p>
                 </div>
                 <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Ramchandra-Paranjpe.webp" alt="Shri. Ramchandra Paranjpe">
+                    <img class="mb-2" src="./dg/trustees/riteshdada.jpg"
+                        alt="">
                     <p class="trustee">
-                        Shri. <br>
+                        Shri. Ritesh Awalekar (B COM / PGDMM) <br>
+                        General Secretary                    </p>
+                </div>
+                <div class="col-lg-3">
+                    <img class="mb-2" src="./dg/trustees/chaya.jpg" alt="">
+                    <p class="trustee">
+                        Mrs. Chhaya Gaikwad (B. Com.) <br>
+                        Treasurer                     </p>
+                </div>
+            </div>
+
+            <h2 class="fw-bold text-uppercase">Active Members</h2>
+
+            <div class="row text-center">
+                <div class="col-lg-2">
+                    <img class="mb-2" src="./dg/trustees/dipali.jpg" alt="">
+                    <p class="trustee">
+                        Dipali Sushil Sawant <br>
+                        Certified in Bakery and Confectionery, Pune 
                     </p>
                 </div>
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Sunil-Rasane.webp" alt="Shri. Sunil Rasane">
+                <div class="col-lg-2">
+                    <img class="mb-2" src="./dg/trustees/sachin.jpg" alt="">
                     <p class="trustee">
-                        Shri. <br>
-                        Vice President                    </p>
+                        Shri. Sachin Mandavkar<br>
+                        Banker
+                    </p>
                 </div>
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Mahesh-Suryavanshi.webp" alt="Shri. Mahesh Suryavanshi">
+                <div class="col-lg-2">
+                    <img class="mb-2" src="./dg/trustees/kavita.jpg" alt="">
                     <p class="trustee">
-                        Shri. <br>
-                        Treasurer                    </p>
+                        Kavita Sahapure<br>
+                        Software Engineer                   </p>
+                </div>
+                <div class="col-lg-2">
+                    <img class="mb-2" src="./dg/trustees/prasad.jpg" alt="">
+                    <p class="trustee">
+                        Shri. Prasad Ogale<br>
+                        B. E. Computers           </p>
+                </div>
+                <div class="col-lg-2">
+                    <img class="mb-2" src="./dg/trustees/omkar.jpg" alt="">
+                    <p class="trustee">
+                        Shri. Omkar Naik<br>
+                        Diploma in Mechanical engineering             </p>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Hemant-Rasne.webp" alt="Shri. Hemant Rasane">
+            <div class="row text-center">
+               
+                <div class="col-lg-2">
+                    <img class="mb-2" src="./dg/trustees/gayatri.jpg" alt="">
                     <p class="trustee">
-                        Shri. <br>
-                        Secretary                    </p>
+                        Mrs. Gayatri Bhavare <br>
+                        Bachelor of arts.               </p>
                 </div>
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Murlidhar-Londhe.webp" alt="Shri. Murlidhar Londhe">
+                <div class="col-lg-2">
+                    <img class="mb-2" src="./dg/trustees/ravindra.jpg" alt="">
                     <p class="trustee">
-                        Shri. <br>
-                        Joint Secretary                    </p>
+                        Shri. Ravindra Pujari<br>
+                        MBA in Operation Management               </p>
                 </div>
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Amol-Kedari.webp" alt="Shri. Amol Kedari">
+                <div class="col-lg-2">
+                    <img class="mb-2" src="./dg/trustees/chetan.JPG" alt="">
                     <p class="trustee">
-                        Shri. <br>
-                        Joint Secretary                    </p>
+                        Shri. Chetan Swami<br>
+                        Masters in Arts, LLB               </p>
                 </div>
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Akshay-Godase.webp" alt="Shri. Akshay Godse">
+            
+                <div class="col-lg-2">
+                    <img class="mb-2" src="./dg/trustees/vrushabh.jpg" alt="">
                     <p class="trustee">
-                        Shri. <br>
-                        Utsav Pramukh                    </p>
+                        Shri. Vrushabh Gaikwad<br>
+                        M A POLITICS (ADVOCATE)      </p>
                 </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Vijaykumar-Vambure.webp" alt="Shri. Vijaykumar Vambure">
-                    <p class="trustee">
-                        Shri. <br>
-                        Trustee                    </p>
-                </div>
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Uttamrao-Gavde.webp" alt="Shri. Uttamrao Gawde">
-                    <p class="trustee">
-                        Shri. <br>
-                        Trustee                    </p>
-                </div>
-                <div class="col-lg-3">
-                    <img class="mb-2" src="C:\Users\HP\Desktop\Anjor\dg/trustees/Ulhasrao-Kalokhe.webp" alt="Shri. Ulhasrao Kalokhe">
-                    <p class="trustee">
-                        Shri. <br>
-                        Trustee                    </p>
-                </div>
-                <div class="col-lg-3">
-                </div>
+                
             </div>
 
             

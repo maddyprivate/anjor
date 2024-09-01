@@ -2,8 +2,10 @@
 
 <!-- SLIDER -->
 <div id="slider" class="inspiro-slider slider-fullscreen dots-creative" data-fade="true">
-    <div class="slide kenburns" data-bg-image="./dg/0041.jpg" hight="100"></div>
+    <div class="slide kenburns" data-bg-image="./dg/slide.jpg" hight="100"></div>
 </div>
+
+<?php include 'news.php'; ?>
 
 <!-- DAILY IMAGE + INTRO -->
 <section id="welcome" class="pb-5">
@@ -38,15 +40,45 @@
             <div class="col-lg-4">
                 <h3 class="text-center">DAILY SCHEDULE</h3>
                 <div class="widget p-cb widget-schedule lang-en">
-                   
+                <strong> Daily Temple Timing</strong><ul type="square"><li>07:30 AM to 08:30 PM (Monday, Wednesday, Thursday, Friday, Saturday, and Sunday)</li><li><strong>Tuesday Timing</strong>– 5:00 AM to 11:00 PM</li><li><strong>Suprabhatam Aarti</strong>– 07:30 AM to 07:45 AM</li><li><strong>Naivedyam</strong>– 01:30 PM to 01:45 PM</li><li><strong>Madhyana Aarti</strong>– 03:00 PM to 03:15 PM</li><li><strong>Mahamangal Aarti</strong>– 08:00 PM to 09:00 PM</li><li><strong>Shejarti</strong>– 10:30 PM to 10:45 PM</li></ul>
+                
                 </div>
                 <div class="text-center">
-                    <a href="/path/to/temple-schedule.php#daily-schedule" class="btn btn-warning mt-4 mb-5">CLICK HERE</a>
+                    <a href="/path/to/temple-schedule#daily-schedule" class="btn btn-warning mt-4 mb-5">CLICK HERE</a>
                 </div>
             </div>
             <div class="col-lg-4">
                 <h3 class="text-center">UPCOMING SCHEDULE</h3>
                 <div class="widget p-cb widget-schedule lang-en">
+                <ul type="square">
+                                                            <li>
+                                    <strong>08th September 2024, Sunday</strong>
+                                    –
+                                    Shri Gajanan Maharaj Punyatithi.
+                                                                    </li>
+                                                            <li>
+                                    <strong>12th October 2024, Saturday</strong>
+                                    –
+                                    Viayadashmi/Dashera/shri Saibaba Jayanti. 
+                                                                    </li>
+                                                            <li>
+                                    <strong>16th October 2024, Wednesday</strong>
+                                    –
+                                    Kojagiri Pournima. 
+                                                                    </li>
+                                                            <li>
+                                    <strong>01st November 2024, Friday</strong>
+                                    –
+                                    Diwali Pahat. 
+                                                                    </li>
+                                                            <li>
+                                    <strong>14th December 2024, Saturday</strong>
+                                    –
+                                     Shri Datta Maharaj Jayanti. 
+                                                                    </li>
+                                                           
+                                    
+                                                    </ul>
                 </div>
                 <div class="text-center">
                     <a href="/path/to/temple-schedule#upcoming-schedule" class="btn btn-danger mt-4 mb-5">CLICK HERE</a>
@@ -125,19 +157,5 @@
         </div>
     </div>
 </section>
-<?php
-$url = '/path/to/temple-schedule.php';
-$dom = new DOMDocument();
-libxml_use_internal_errors(true); // To handle any HTML parsing errors
-$dom->loadHTMLFile($url);
-libxml_clear_errors();
-
-$element = $dom->getElementById('daily-schedule');
-if ($element) {
-    echo $dom->saveHTML($element);
-} else {
-    echo 'Element not found.';
-}
-?>
 
 <?php include 'footer.php'; ?>
